@@ -1,4 +1,17 @@
-PhytoKeys-xml
-=============
+# Full PhytoKeys articles as TaxPub XML #
 
-A repository of PhytoKeys TaxPub XML
+**Pull requests welcome.**
+
+Each article is a separate file. When the _ is replaced with a / the result is the article's [DOI](http://www.doi.org/). 
+
+## About PhytoKeys ##
+[PhytoKeys](http://www.pensoft.net/journals/phytokeys) is a peer-reviewed, [open-access](http://www.doaj.org), online and print, rapidly produced journal launched to support free exchange of ideas and information in systematic botany.
+
+All papers can be freely copied, downloaded, printed and distributed free of charge.
+
+
+## About TaxPub ##
+* [An Extension of the NLM/NCBI Journal Publishing DTD for Taxonomic Descriptions](http://www.ncbi.nlm.nih.gov/books/NBK47081/) 
+* GitHub [repo](https://github.com/tcatapano/TaxPub) 	
+
+
