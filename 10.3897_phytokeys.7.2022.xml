@@ -1,0 +1,238 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">ZooKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">ZooKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">ZooKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1313-2989</issn>
+            <issn pub-type="epub">1313-2970</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/phytokeys.7.2022</article-id>
+            <title-group>
+                <article-title>Two new species of 
+                    <italic>Elatostema</italic> (Urticaceae) from southeast Yunnan, China
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Wu</surname>
+                        <given-names>Zeng-Yuan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                    <xref ref-type="aff" rid="A4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Wang</surname>
+                        <given-names>Wen-Tsai</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Wang</surname>
+                        <given-names>Hong</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Li</surname>
+                        <given-names>De-Zhu</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Key Laboratory of Biodiversity and Biogeography, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming Yunnan 650201, China
+            </aff>
+            <aff id="A2">
+                <label>2</label>State Key Laboratory of Systematic and Evolutionary Botany, Institute of Botany, Chinese Academy of Sciences, Beijing 100093, China
+            </aff>
+            <aff id="A3">
+                <label>3</label>Germplasm Bank of Wild Species, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, Yunnan 650201, China
+            </aff>
+            <aff id="A4">
+                <label>4</label>Graduate University of the Chinese Academy of Sciences, Beijing 100049, China
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: De-Zhu Li (<email xlink:type="simple">dzl@mail.kib.ac.cn</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: H. Schaefer </p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>29</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>7</issue>
+            <fpage>57</fpage>
+            <lpage>62</lpage>
+            <history>
+                <date date-type="received">
+                    <day>7</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>18</day>
+                    <month>11</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Zeng-Yuan Wu1,3,4, Wen-Tsai Wang2, Hong Wang1,3, De-Zhu Li1,3</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p><italic><tp:taxon-name>Elatostema pleiophlebium</tp:taxon-name></italic> and <italic><tp:taxon-name>Elatostema malipoense,</tp:taxon-name></italic> two endemic species from southeast Yunnan of China, are described and illustrated. Their diagnostic characters, description and relationship with morphologically similar species are also given. <italic><tp:taxon-name>Elatostema pleiophlebium</tp:taxon-name></italic> is easily recognised by its glabrous stem and leaf blade, and its longitudinally 1-ribbed outer staminate bracts. <italic><tp:taxon-name>Elatostema malipoense</tp:taxon-name></italic> is morphologically distinct for its tuberculate achene and pistillate receptacle which is puberulous. Both new species are known only from their type localities, and they are proposed to be classified as critically endangered.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>China</kwd>
+                <kwd><italic>Elatostema</italic></kwd>
+                <kwd>new species</kwd>
+                <kwd>Urticaceae</kwd>
+                <kwd>Yunnan Province</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The genus <italic><tp:taxon-name>Elatostema</tp:taxon-name></italic> J. R. Forst. &amp; G. Forst. is one of the largest genera of the family <tp:taxon-name>Urticaceae</tp:taxon-name>. This genus is characterized by the perianth lobes of female flowers being much shorter than the ovary or strongly reduced, and not corniculate at apex (<xref ref-type="bibr" rid="B1">Chen et al. 2003</xref>; <!--PageBreak--><xref ref-type="bibr" rid="B4">Wang 1995</xref>). The staminate inflorescences play an important role in the delimitation of sections, but for delimiting series leaf venation, peduncle length, achene morphology and leaf reduction of staminate stem are used as main distinguishing characters (<xref ref-type="bibr" rid="B9">Wang 2011a</xref>).</p>
+            <p><italic><tp:taxon-name>Elatostema</tp:taxon-name></italic> comprises ca. 550 species distributed in tropical and subtropical Africa, Asia and Oceania, especially in humid areas (<xref ref-type="bibr" rid="B1">Chen et al. 2003</xref>, <xref ref-type="bibr" rid="B9">Wang 2011a</xref>). So far, 233 species (205 endemic) have been recorded for China. These mainly occur in the tropical and subtropical regions south of the Qinling Mountains (<xref ref-type="bibr" rid="B4">Wang 1995</xref>, <xref ref-type="bibr" rid="B9">2011a</xref>). More than seventy species of <italic><tp:taxon-name>Elatostema</tp:taxon-name></italic> have been recorded for southeast Yunnan (e.g. <xref ref-type="bibr" rid="B5">Wang 1997</xref>, <xref ref-type="bibr" rid="B6">2003</xref>, <xref ref-type="bibr" rid="B7">2006</xref>, <xref ref-type="bibr" rid="B8">2010</xref>, <xref ref-type="bibr" rid="B10">2011b</xref>; <xref ref-type="bibr" rid="B11">Wu et al. 2011</xref>), which was defined as one of the plant endemism centres in China (<xref ref-type="bibr" rid="B3">López-Pujol et al. 2011</xref>). During botanical surveys conducted by the authors in this region, two hitherto undescribed species were encountered, which are described and illustrated here.</p>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Elatostema</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">pleiophlebium</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:ipni.org:names:77116005-1</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Elatostema_pleiophlebium</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>W.T.Wang &amp; Zeng Y.Wu,</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. nov.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Fig. 1F–I</xref>
+                    <xref ref-type="fig" rid="F2">2A–C</xref>
+                </tp:nomenclature>
+                	<tp:treatment-sec sec-type="Latin"><title>Latin</title>
+                    <p>Ob foliorum nervos laterales plures et capitula staminata 6-bracteata glabra species nova haec est fortasse affinis <italic><tp:taxon-name>Elatostema quinquecostato</tp:taxon-name></italic> W.T.Wang, quod caulibus strigosis, foliis apice cuspidatis supra hispidis subtus strigosis nervos laterales utrinsecus usque ad 12-14 ferentibus, capituli staminati bracteis duabus exteris dorso 5-costatis et infra apicem breviter corniculatis praeclare differt.</p>
+                 </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type">
+                    <title>Type.</title>
+                    <p>China. Yunnan, Hekou county, Nanxi village, Sanchahe river, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">22°41'4&quot;N, 103°59'26&quot;E</named-content>, 388 m, 01 Aug. 2010, Z. Y. Wu 10181 (Holotype: PE!; Isotype: PE!); the same locality, 01 Aug. 2010, Z. Y. Wu 10186 (Paratype: KUN!).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p>Perennial herb. Stems erect, 30-50 cm tall, glabrous, unbranched. Stipules narrowly lanceolate or lanceolate, 5–14 × 1.5–3 mm, with cystoliths 0.5–0.7 mm long, apex pungent; leaves shortly petiolate, glabrous, petioles 3–17 mm long; leaf blade chartaceous, obliquely narrowly ovate, broadly oblong or elliptic, 10–20 × 4.5–7.2 cm, glabrous, adaxial surface with 1 broad, interrupted, white stripe along the mid vein, adaxial surface with dense cystoliths, conspicuous, bacilliform, 0.25–0.8 mm long, penninerved, narrow side with (4-) 7–10 lateral nerves, broad side with (5-) 7–11 lateral nerves, base obliquely cuneate, margin denticulate, apex acuminate, shortly acuminate or obtuse. Staminate capitula solitarily axillary, glabrous; peduncle ca. 1.5 mm long; receptacle broadly oblong, ca. 8 × 6 mm; bracts 6, 2-seriate, ovate or narrowly ovate, abaxially above longitudinally 1-ribbed, with rib apex extended into subulate horn-like projections, outer 2 opposite, larger, 4–5 × 9 mm, with apex projection 3 mm long, inner 4 smaller, 4–5 × 5–7 mm, apex projection 1–1.5 mm long; bracteoles membranous, numerous, semihyaline, above brownish, obtrapezoid or navicular, 2–3.2 × 0.6–2 mm, above slightly conduplicate, apex cucullate. Staminate flower buds subsessile, broadly obovoid, ca. 2 mm long, glabrous, apex 4-corniculate. Female flowers and achenes not known.<!--PageBreak--><!--PageBreak--></p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology">
+                    <title>Ecology.</title>
+                    <p><italic><tp:taxon-name>Elatostema pleiophlebium</tp:taxon-name></italic> is a forest understory herb. In the type locality, it occurs on wet ground in forest close to a river where it is associated with <italic><tp:taxon-name>Elatostema alnifolium</tp:taxon-name></italic> and some species of <italic><tp:taxon-name>Musa</tp:taxon-name></italic>, <italic><tp:taxon-name>Ficus</tp:taxon-name></italic> andPiperaceae.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution and conservation status">
+                    <title>Distribution and conservation status.</title>
+                    <p><italic><tp:taxon-name>Elatostema pleioph</tp:taxon-name></italic><italic>lebium</italic> is known only from the type locality near the Sanchahe river, Nanxi village, Hekou county, Yunnan. Consequently, it is probably an endemic species. A single population of a few hundred individuals was observed in an area of 1 km<sup>2</sup>. We believe therefore, that this new species is on the verge of extinction but we do not know if population size is stable or declining. Following the IUCN red list criteria (<xref ref-type="bibr" rid="B2">IUCN 2011</xref>), we propose to classify this species as critically endangered (CR B2ab (iii); C2b).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Similar species">
+                    <title>Similar species.</title>
+                    <p><italic><tp:taxon-name>Elatostema pleiop</tp:taxon-name></italic><italic>h</italic><italic>lebium</italic> is a member of series Nanchuanensia W.T.Wang in sect. <italic><tp:taxon-name>Elatostema</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B9">Wang 2011a</xref>). <italic><tp:taxon-name>Elatostema pleiophlebium</tp:taxon-name></italic> is similar to <italic><tp:taxon-name>Elatostema quinquecostatum</tp:taxon-name></italic> W.T.Wang in having numerous lateral leaf nerves and a staminate capitulum involucre formed of six glabrous bracts. <italic><tp:taxon-name>Elatostema quinquecostatum</tp:taxon-name></italic> differs from <italic><tp:taxon-name>Elatostema pleiophlebium</tp:taxon-name></italic> in having stems with strigose hairs, cuspidate leaf apices, hirsute adaxial leaf surface, strigose abaxial leaf surfaces, bearing ca. 12–14 nerves, the outer 2 staminate bracts abaxially longitudinally 5-ribbed and short coniculate below apex (<xref ref-type="bibr" rid="B4">Wang 1995</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology.</title>
+                    <p>The epithet ‘pleiophlebium' refers to the numerous lateral nerves characteristic of the leaves of this species.</p>
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figure 1.</label>
+                        <caption><p><bold>A–E</bold> <italic><tp:taxon-name>Elatostema malipoense</tp:taxon-name></italic>W. T. Wang &amp; Zeng Y. Wu. <bold>A</bold> Upper part of flowering pistillate stem <bold>B</bold> pistillate capitulum, seen from below <bold>C</bold> two pistillate involucral bracts <bold>D</bold> pistillatate bracteoles and pistillate flower <bold>E</bold> achene, (based on Z. Y. Wu 10347). <bold>F–I</bold> <italic><tp:taxon-name>Elatostema pleiophlebium</tp:taxon-name></italic> W.T.Wang &amp; Zeng Y.Wu. <bold>F</bold> upper cauline leaf <bold>G</bold> staminate capitulum <bold>H</bold> staminate bracteole <bold>I</bold> staminate bracteoles and staminate flower bud, (based on Z. Y. Wu 10181).</p></caption>
+                        <graphic xlink:href="PhytoKeys-007-057-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Elatostema</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">malipoense</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:ipni.org:names:77116006-1</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Elatostema_malipoense</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>W.T.Wang &amp; Zeng Y.Wu,</tp:taxon-authority>
+                    <tp:taxon-status xlink:type="simple">sp. nov.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Figs 1A–E</xref>
+                    <xref ref-type="fig" rid="F2">2D–G</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Latin"><title>Latin</title>
+                    <p>Ob folia penninervia et capituli pistillati bracteas numerosas apice corniculatas species nova haec est similis <italic><tp:taxon-name>Elatostema pseudobrachyodonto</tp:taxon-name></italic> W.T.Wang, quod foliis supra puberulis, capituli pistillati receptaculo glabro, bractearum pistillatarum cornibus apicalibus majoribus 1.5-2 mm longis, bracteolis pistillatis viridibus minoribus 0.3–0.6 mm longis apice breviter ciliatis, acheniis longitudinaliter 4-costatis valde recedit.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type">
+                    <title>Type.</title>
+                    <p>China. Yunnan, Malipo county, Xiajinchang village Yunling, <named-content content-type="dwc:verbatimCoordinates" xlink:type="simple">23°10'6&quot;N, 104°49'50&quot;E</named-content>, 1613 m, 05 Aug. 2010, Z. Y. Wu 10347 (Holotype: PE!; Isotype: KUN!).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p>Perennial herb. Stems erect, 30-50 cm tall, above sparsely short- puberulous near the node, unbranched. Stipules subulate or narrowly triangular, 0.1–0.2 mm long; leaves shortly petiolate, glabrous, petioles 1–6 mm long; leaf blade subchartaceous, obliquely oblong or narrowly obovate-oblong, 11–15 × 3–3.5 cm, both surfaces densely short strigose, cystoliths conspicuous, dense, bacilliform, 0.1–0.2 mm long, penninerved, lateral nerves 5–7-paired, base obliquely cuneate, apex cuspidate (entire), margin denticulate. Pistillate capitula solitarily axillary; peduncle ca. 8 mm long, short-puberulous; receptacle subquadrate or broadly oblong, 10–15 × 10–15 mm, 4-lobulate or irregularly 4–6-lobulate, short-puberulous; bracts ca. 75, deltoid or depressed-deltoid, 0.5–0.6 × 0.5–0.7 mm, ciliate, abaxial surface short-puberulous, <!--PageBreak-->apex with a subulate horn-like projections, 0.7–1 mm long; bracteoles membranous, whitish, semihyaline, narrowly obovate or oblanceolate, 0.5–1 mm long, apically long ciliate. Pistillate flower subsessile, tepals absent; pistil 0.8 mm long, ovary green, 3.5 mm long, stigma penicillate, ca. 4.5 mm long. Achenes ovoid, 0.6–0.7 × 0.4 mm, densely tuberculate. Staminate capitula not seen.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology">
+                    <title>Ecology.</title>
+                    <p><italic><tp:taxon-name>Elatostema malipoense</tp:taxon-name></italic> is a scattered understory herb growing in moist clay soils in shady sites or near ravines at an altitude of ca. 1600 m, associated with <italic><tp:taxon-name>Pilea insolens</tp:taxon-name></italic> and some species of <italic><tp:taxon-name>Ficus</tp:taxon-name></italic>.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution and conversation status">
+                    <title>Distribution and conversation status.</title>
+                    <p><italic><tp:taxon-name>Elatostema malipoense</tp:taxon-name></italic> is an endemic species and has only been collected from the type locality around Xiajinchang village Yunling, Malipo county, Yunnan, where a population of ca. 200 individuals was observed in an area of 1 km<sup>2</sup>. According to IUCN red list criteria (<xref ref-type="bibr" rid="B2">IUCN 2011</xref>), this new species should be classified as critically endangered (CR B2ab (iii); C2b).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Similar species">
+                    <title>Similar species.</title>
+                    <p><italic><tp:taxon-name>Elatostema malipoense</tp:taxon-name></italic> is a member of sect. <italic><tp:taxon-name>Elatostema</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B9">Wang 2011a</xref>). In having penninerved leaves and a pistillate capitulum with numerous corniculate involucral bracts, <italic><tp:taxon-name>Elatostema malipoense</tp:taxon-name></italic> resembles <italic><tp:taxon-name>Elatostema pseudobrachyodontum</tp:taxon-name></italic> W.T.Wang. <italic><tp:taxon-name>Elatostema pseudobrachyodontum</tp:taxon-name></italic> differs from <italic><tp:taxon-name>Elatostema malipoense</tp:taxon-name></italic> in having short-puberulous adaxial surface of the leaf blade, glabrous pistillate receptacles, pistillate bracts 1.5-2 mm long, and corniculate, pistillate bracteoles are green, 0.3-0.6<!--PageBreak--> mm long, apex short-ciliate at the apex and achenes that are longitudinally 4-ribbed (<xref ref-type="bibr" rid="B4">Wang 1995</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology.</title>
+                    <p>The species epithet ‘malipoense' is derived from the name of the type locality, Malipo County, Yunnan Province, China.</p>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p><bold>A–C</bold> <italic><tp:taxon-name>Elatostema pleiophlebium</tp:taxon-name></italic> W.T.Wang &amp; Zeng Y.Wu. <bold>A</bold> Specimen <bold>B</bold> staminate bracteole <bold>C</bold> stipule <bold>D–G</bold> <italic><tp:taxon-name>Elatostema malipoense</tp:taxon-name></italic> W.T.Wang &amp; Zeng Y.Wu. <bold>D</bold> pistillate capitulum, seen from below <bold>E</bold> pistillate involucral bracts <bold>F</bold> pistillate bracteoles <bold>G</bold> achenes.</p></caption>
+                        <graphic xlink:href="PhytoKeys-007-057-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>This study was financially supported by the National Natural Science Foundation of China (grant no. 40830209). The authors also acknowledge financial support from the Yunnan Provincial Department of Science and Technology (grant no. 2008GA029). We are grateful to Ying-Bao Sun for the botanical drawings. We are indebted to Jie Liu, Ram C. Poudel and Alex K. Monro for their valuable comments and language corrections, to two anonymous reviewers and Hanno Schaefer for their helpful suggestions, to Wen-Fang Zhang and Zhao-Ming Cai for their great help during the field work.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chen</surname><given-names>CJ</given-names></name><name name-style="western"><surname>Lin</surname><given-names>Q</given-names></name><name name-style="western"><surname>Friis</surname><given-names>I</given-names></name><name name-style="western"><surname>Wilmot-Dear</surname><given-names>CM</given-names></name><name name-style="western"><surname>Monro</surname><given-names>AK</given-names></name></person-group> (<year>2003</year>)<source> Urticaceae. Science Press, Bejing &amp; Missouri Botanical Garden Press.</source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>IUCN</surname><given-names>Standards and Petitions Subcommittee</given-names></name></person-group> (<year>2011</year>)<source> Guidelines for Using the IUCN Red List Categories and Criteria. Version 9.0. Prepared by the Standards and Petitions Subcommittee.</source></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>López-Pujol</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>FM</given-names></name><name name-style="western"><surname>Sun</surname><given-names>HQ</given-names></name><name name-style="western"><surname>Ying</surname><given-names>TS</given-names></name><name name-style="western"><surname>Ge</surname><given-names>S</given-names></name></person-group> (<year>2011</year>)<source> Centres of plant endemism in China: places for survival or for speciation? Journal of Biogeography 38: 1267–1280. </source><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-2699.2011.02504.x" xlink:type="simple">doi: 10.1111/j.1365-2699.2011.02504.x</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wang</surname><given-names>WT</given-names></name></person-group> (<year>1995</year>)<article-title> <italic>Elatostema</italic>.</article-title> In: <person-group><name name-style="western"><surname>Wang</surname><given-names>WT</given-names></name><name name-style="western"><surname>Chen C</surname><given-names>J</given-names></name></person-group> (<role>Eds</role>). <issue-title>Flora Reipubl.</issue-title> <source>Pop. Sin. Vol. 23. Science Press</source>: <fpage>187</fpage>-<lpage>317</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wang</surname><given-names>WT</given-names></name></person-group> (<year>1997</year>)<article-title> Two new species of <italic>Elatostema</italic> (Urticaceae) from Yunnan, China.</article-title> <source>Acta Phytotaxonmica Sinica </source> <volume>35</volume>: <fpage>457</fpage>-<lpage>460</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wang</surname><given-names>WT</given-names></name></person-group> (<year>2003</year>)<article-title> Notes on <italic>Elatoste</italic><italic>ma</italic> Forst. (Urticaceae) from Yunnan Province.</article-title> <source>Bulletin of Botanical Research </source> <volume>23</volume>: <fpage>257</fpage>-<lpage>260</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wang</surname><given-names>WT</given-names></name></person-group> (<year>2006</year>)<article-title> Notes on <italic>Pellionia</italic> and <italic>Elatostema</italic> (Urticaceae) in Southeastern Yunnan.</article-title> <source>Bulletin of Botanical Research </source> <volume>26</volume>: <fpage>15</fpage>-<lpage>24</lpage>.</mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wang</surname><given-names>WT</given-names></name></person-group> (<year>2010</year>)<article-title> New taxa of <italic>Pellionia</italic> and <italic>Elatostema</italic> (Urticaceae) from China.</article-title> <source>Guihaia </source> <volume>30</volume>: <fpage>1</fpage>-<lpage>12</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wang</surname><given-names>WT</given-names></name></person-group> (<year>2011a</year>)<source> Nova Classificatio Specierum Sinicarum <italic>Elatostematis</italic> (Urticaceae). Guihaia In press.</source></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wang</surname><given-names>WT</given-names></name></person-group> (<year>2011b</year>)<article-title> Two new species of <italic>El</italic><italic>atostema</italic> (Urticaceae) from southeastern Yunnan.</article-title> <source>Guihaia </source> <volume>31</volume>: <fpage>143</fpage>-<lpage>147</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wu</surname><given-names>ZY</given-names></name><name name-style="western"><surname>Wang</surname><given-names>WT</given-names></name><name name-style="western"><surname>Wang</surname><given-names>H</given-names></name><name name-style="western"><surname>Li</surname><given-names>DZ</given-names></name></person-group> (<year>2011</year>)<article-title> <italic>Elatostema densistriolatum</italic> sp. n., <italic>E. latistipulum</italic> sp. n. and <italic>E. cyrtandrifolium</italic> var. <italic>hirsutum</italic> var. nov. (Urticaceae) from southwest China.</article-title> <source>Nordic Journal of Botany </source> <volume>29</volume>: <fpage>227</fpage>-<lpage>232</lpage>. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1756-1051.2011.01076.x" xlink:type="simple">doi: 10.1111/j.1756-1051.2011.01076.x</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

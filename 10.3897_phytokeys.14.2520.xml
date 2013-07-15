@@ -1,0 +1,468 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">PhytoKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">PhytoKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">PhytoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-2011</issn>
+            <issn pub-type="epub">1314-2003</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/phytokeys.14.2520</article-id>
+            <title-group>
+                <article-title>
+                    <italic>Cuatrecasanthus</italic> (Vernonieae, Compositae): A revision of a north-central Andean genus
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Robinson</surname>
+                        <given-names>Harold</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Funk</surname>
+                        <given-names>Vicki A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Botany, MRC 166, National Museum of Natural History, P.O. Box 37012, Smithsonian Institution, Washington, DC. 20013-7012
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Harold Robinson (<email xlink:type="simple">robinsoh@si.edu</email>); Vicki A. Funk (<email xlink:type="simple">funkv@si.edu</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Sandra Knapp</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>30</day>
+                <month>7</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>14</issue>
+            <fpage>23</fpage>
+            <lpage>41</lpage>
+            <history>
+                <date date-type="received">
+                    <day>7</day>
+                    <month>12</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>29</day>
+                    <month>6</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Harold Robinson, Vicki A. Funk</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p><italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> is native to Ecuador and Peru and although several unusual characters define the genus, such as single flowered heads and corolla throat (limb) divided to the base with lobes that are thickened at the margins, the members of the genus were not recognized as especially closely related until relatively recently. All six species are described, including two new to science (<italic><tp:taxon-name>Cuatrecasanthus kingii</tp:taxon-name></italic> H. Rob. &amp; V.A. Funk, <bold>sp. nov.</bold> and <italic><tp:taxon-name>Cuatrecasanthus lanceolatus</tp:taxon-name></italic> H. Rob. &amp; V.A. Funk, <bold>sp. nov.</bold>), and one new combination is recognized (<italic><tp:taxon-name>Cuatrecasanthus giannasii</tp:taxon-name></italic> (Stutts) H. Rob. &amp; V.A. Funk, <bold>comb. nov.</bold>). A key is provided along with images of the types, SEM photographs of the leaf surfaces, a distribution map, and illustrations of the two new species. All species are given a preliminary conservation status of Data Deficient in regard to the IUCN Red List of Threatened Species.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Asteraceae</kwd>
+                <kwd><italic>Critoniopsis</italic></kwd>
+                <kwd>Ecuador</kwd>
+                <kwd>Neotropics</kwd>
+                <kwd>Peru</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The Andean genus <italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> H. Rob., native to Ecuador and Peru, is one of the most readily distinguished genera in the tribe Vernonieae. The combination of heads with one floret, corollas with the limb divided to the base into five scarcely distorted lobes, lobes with thickened margins, and ten-ribbed achenes is unique in the tribe. Another Andean genus, with similarly deeply cut corolla lobes, <italic><tp:taxon-name>Joseanthus</tp:taxon-name></italic> <!--PageBreak-->H. Rob., differs by its opposite leaves and many florets in each head. Although the distinctions of <italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> are clear, it has been subject to problems at the species level that have not been entirely resolved until the present effort to treat the genus for the Flora of Ecuador.</p>
+            <p>Given the distinctive characters of the genus, it is surprising that the first few species that were described were not recognized as relatives. The first member the group to be described was <italic><tp:taxon-name>Eremanthus jelskii</tp:taxon-name></italic> Hieron. from Peru. When <italic><tp:taxon-name>Vernonia flexipappa</tp:taxon-name></italic> was described by <xref ref-type="bibr" rid="B2">Gleason (1925)</xref>, the relationship to <italic><tp:taxon-name>Eremanthus jelskii</tp:taxon-name></italic> was not recognized. Yet again, <italic><tp:taxon-name>Vernonia giannasii</tp:taxon-name></italic> <xref ref-type="bibr" rid="B7">Stutts (1980)</xref> was described without mention of the previously described relatives. It was <xref ref-type="bibr" rid="B6">Robinson and Kahn (1985)</xref>, at the time of the description of <italic><tp:taxon-name>Vernonia sandemannii</tp:taxon-name></italic> (1985), who first recognized the relationship of the new species to the Hieronymus and Gleason species. At the time of the description of the genus <italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B5">Robinson 1989</xref>) the three species were placed together, with <italic><tp:taxon-name>Vernonia giannasii</tp:taxon-name></italic> being treated as a synonym of <italic><tp:taxon-name>Cuatrecasanthus flexipappus</tp:taxon-name></italic>. The most recent studies have shown some errors in the 1989 treatment, with <italic><tp:taxon-name>Vernonia giannasii</tp:taxon-name></italic> proving to be a distinct species and two additional species needing description. The genus thought to contain three species now proves to contain six with all the additions being based on material from Ecuador.</p>
+            <p>Although material of <italic><tp:taxon-name>Vernonia flexipappa</tp:taxon-name></italic> was collected by Keeley in 1983, it was not reported in the DNA study of <xref ref-type="bibr" rid="B4">Keeley et al. (2007)</xref>. Nevertheless, a position for <italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> in the subtribe <tp:taxon-name>Piptocarphinae</tp:taxon-name> near <italic><tp:taxon-name>Critoniopsis</tp:taxon-name></italic> Sch. Bip. is hypothesized on the basis of the woody habit, branching trichomes on the abaxial surface of leaves, and blunt-tipped sweeping hairs on the styles.</p>
+        </sec>
+        <sec sec-type="Systematics">
+            <title>Systematics</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Cuatrecasanthus</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Cuatrecasanthus</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>H. Rob., Revista Acad. Colomb. Ci. Exact. 17(65): 209 (1989).</tp:taxon-authority>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type species">
+                    <title>Type species:</title>
+                    <p><italic><tp:taxon-name>Vernonia sandemanii</tp:taxon-name></italic> H. Rob. &amp; B. Kahn (=<italic><tp:taxon-name>Cuatrecasanthus sandemanii</tp:taxon-name></italic>(H. Rob. &amp; B. Kahn)H. Rob.)</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p><italic>Erect branching shrubs, scrambling shrubs or trees</italic> (rarely vines) to 3.5 m tall; <italic>stems</italic> terete, striate, minutely pilose (pilosulous) with evanescent simple hairs or thinly tomentose; <italic>pith</italic> solid. <italic>Leaves</italic> alternate, petiolate; <italic>blades</italic> elliptical or lanceolate, base narrowly cuneate to attenuate, subchartaceous, margins entire to remotely subserrulate, narrowly recurved, apex usually sharply acuminate, adaxial surfaces pilosulous with simple non-septate, thick-walled trichomes, with numerous glandular dots, abaxial surfaces covered with thin whitish tomentum of prostrate myceliiform minutely branching trichomes; <italic>secondary veins</italic> 4–9 on each side of midvein, ascending basally at 45–60° angles. <italic>Inflorescence</italic> terminal on leafy stems, rounded corymbiform, branching alternate, with large foliaceous bracts only at lower primary nodes.<!--PageBreak--> <italic>Heads</italic> clustered and sessile in glomerules at ends of short branchlets (<xref ref-type="fig" rid="F7">Figs 7C</xref>, <xref ref-type="fig" rid="F9">9B</xref>), individual heads cylindrical; <italic>involucral bracts</italic> ca. 15 in 5–6 gradate series (<xref ref-type="fig" rid="F7">Figs 7D</xref>, <xref ref-type="fig" rid="F9">9C</xref>), inner bracts easily deciduous, outer bracts persistent; <italic>receptacle</italic> glabrous. <italic>Florets</italic> one per head; <italic>corollas</italic> lavender, outside minutely gland-dotted, distally sometimes pilosulous, basal tube narrow, ca. 2.5–4.0 mm long, throat lacking, lobes 5, linear, separated to base of limb, with somewhat thickened margins, not or scarcely distorted on drying (<xref ref-type="fig" rid="F7">Figs 7E</xref>, <xref ref-type="fig" rid="F9">9D</xref>); <italic>anther</italic> thecae purple, with short papillose-fimbriate basal appendage, apical appendage ovate-oblong, ca. 0.5 mm long, glabrous; <italic>style</italic> base with stopper-shaped node, with thick-walled cells, sweeping hairs non-septate, obtuse to short-acute. <italic>Achenes</italic> prismatic, 10-costate (<xref ref-type="fig" rid="F7">Figs 7G</xref>, <xref ref-type="fig" rid="F9">9F</xref>), surface sometimes fleshy, with numerous glandular dots, with few or no eglandular trichomes, with minute short-oblong raphids, base with broad annuliform carpopodium; <italic>pappus</italic> straw-colored, of 45–65 crowded rather persistent capillary bristles, about as long as corolla, barbellate, mostly some somewhat broadened and flattened distally, a few outer shorter bristles rather indistinct. <italic>Pollen</italic> ca. 40–45 µm in diam., spinulose, sublophate, tricolporate, with continuous perforated tectum between colpi.</p>
+                    <p>In addition to the diagnostic generic characteristics are features of special interest such as the marginal teeth of the leaves that are incurved and appressed against the abaxial surface in all but one species (<italic><tp:taxon-name>Cuatrecasanthus lanceolatus</tp:taxon-name></italic>; <xref ref-type="fig" rid="F1">Fig. 1A–B</xref>) and the finely branching myceliiform hairs on the abaxial surface of the leaves in all the species (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). In addition, there is variation on the leaf surfaces. The surfaces of the leaves have veins that can be exsculpate (above the surface), insculpate (below the surface), or even with the adaxial leaf surface (<xref ref-type="fig" rid="F2">Figs 2</xref><xref ref-type="fig" rid="F3"></xref><xref ref-type="fig" rid="F4">–4</xref>). All but one of the species have veins on the adaxial surface that are even with the surface or slightly insculpate; one species has veins that are deeply insculpate (<italic><tp:taxon-name>Cuatrecasanthus giannasii</tp:taxon-name></italic>) and all six species have veins that are exculpate on the abaxial surface. The style branches are reported on one herbarium label as pale pink almost white; there are no additional data on the color of the styles.</p>
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figure 1.</label>
+                        <caption><p><italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> leaves: <bold>A</bold> <italic><tp:taxon-name>Cuatrecasanthus lanceolatus</tp:taxon-name></italic> showing projecting marginal tooth <bold>B</bold> <italic><tp:taxon-name>Cuatrecasanthus kingii</tp:taxon-name></italic> showing incurved tooth <bold>C</bold> Myceliform hairs on abaxial surface of leaf of <italic><tp:taxon-name>Cuatrecasanthus giannasii</tp:taxon-name></italic>.</p></caption>
+                        <graphic xlink:href="PhytoKeys-014-023-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p><italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> leaf surfaces: <bold>A–B</bold> <italic><tp:taxon-name>Cuatrecasanthus flexipappus</tp:taxon-name></italic>. <bold>A</bold> Adaxial surface <bold>B</bold> Abaxial surface <bold>C–D</bold> <italic><tp:taxon-name>Cuatrecasanthus giannasii</tp:taxon-name></italic> <bold>C</bold> Adaxial surface, showing deeply insculpate veins <bold>D</bold> Abaxial surface.</p></caption>
+                        <graphic xlink:href="PhytoKeys-014-023-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figure 3.</label>
+                        <caption><p><italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> leaf surfaces: <bold>A–B</bold> <italic><tp:taxon-name>Cuatrecasanthus jelskii</tp:taxon-name></italic>. <bold>A</bold> Adaxial surface <bold>B</bold> Abaxial surface <bold>C–D</bold> <italic><tp:taxon-name>Cuatrecasanthus kingii</tp:taxon-name></italic>. showing veins even with surface <bold>D</bold> Abaxial surface.</p></caption>
+                        <graphic xlink:href="PhytoKeys-014-023-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figure 4.</label>
+                        <caption><p><italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> leaf surfaces: <bold>A–B</bold> <italic><tp:taxon-name>Cuatrecasanthus lanceolatus</tp:taxon-name></italic>. <bold>A</bold> Adaxial surface <bold>B</bold> Abaxial surface <bold>C–D</bold> <italic><tp:taxon-name>Cuatrecasanthus sandemanii</tp:taxon-name></italic> <bold>C</bold> Adaxial surface <bold>D</bold> Abaxial surface.</p></caption>
+                        <graphic xlink:href="PhytoKeys-014-023-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <p>The genus occurs in Ecuador and Peru. The six known species can be distinguished using the following key:</p>
+                    <table-wrap content-type="key" position="float" orientation="portrait">
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td rowspan="1" colspan="1">1</td>
+                                    <td rowspan="1" colspan="1">Leaf margins with numerous obvious antrorse teeth not strongly incurved against abaxial surface (may vary in prominence); leaf tips narrowly acute, not abruptly short-acuminate</td>
+                                    <td rowspan="1" colspan="1">5. <italic><tp:taxon-name>Cuatrecasanthus lanceolatus</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">Leaf margins entire or with obscure inturned teeth; leaf tips usually abruptly short-acuminate</td>
+                                    <td rowspan="1" colspan="1">2</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">2</td>
+                                    <td rowspan="1" colspan="1">Inflorescence with loose clusters of heads, distinctly exceeding the upper leaves </td>
+                                    <td rowspan="1" colspan="1">3</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">Inflorescence with dense clusters of heads, not or scarcely exceeding the upper leaves, with interspersed foliiform bracts</td>
+                                    <td rowspan="1" colspan="1">4</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">3</td>
+                                    <td rowspan="1" colspan="1">Leaf blade broadly elliptical or ovate-elliptical; adaxial surface hispidulous with midvein prominently exculpate and otherwise plane</td>
+                                    <td rowspan="1" colspan="1">4. <italic><tp:taxon-name>Cuatrecasanthus kingii</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">Leaf blade lanceolate-elliptical; adaxial surface sparsely covered with appressed minute tricihomes with at least the midvein insculpate</td>
+                                    <td rowspan="1" colspan="1">6. <italic><tp:taxon-name>Cuatrecasanthus sandemanii</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">4</td>
+                                    <td rowspan="1" colspan="1">Adaxial surface of leaf with all veins distinctly insculpate; adaxial surface with few short trichomes, veins and trichomes all whitish; distal leaf margins with incurved teeth pressed against abaxial leaf surface; tips of pappus bristles distinctly broadened</td>
+                                    <td rowspan="1" colspan="1">2. <italic><tp:taxon-name>Cuatrecasanthus giannasii</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">Adaxial surface of leaf with major veins not obviously insculpate, secondary and tertiary veins insculpate; adaxial surface with many prominent stiff trichomes, midvein and trichomes dark brown or yellow; leaf margins with few inturned teeth; tips of pappus bristles not or scarcely broadened</td>
+                                    <td rowspan="1" colspan="1">5</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">5</td>
+                                    <td rowspan="1" colspan="1">Abaxial surface of midvein of leaf with dense antrorse pubescence mostly on sides; abaxial surface of lamina covered with mostly appressed, stiff, usually brownish trichomes</td>
+                                    <td rowspan="1" colspan="1">1. <italic><tp:taxon-name>Cuatrecasanthus flexipappus</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">–</td>
+                                    <td rowspan="1" colspan="1">Abaxial surface of midvein of leaf densely hirsute with spreading hairs; abaxial surface of lamina with erect yellowish trichomes</td>
+                                    <td rowspan="1" colspan="1">3. <italic><tp:taxon-name>Cuatrecasanthus jelskii</tp:taxon-name></italic></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>1.</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Cuatrecasanthus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">flexipappus</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Cuatrecasanthus_flexipappus</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Gleason) H. Rob., Revista Colomb. Ci. Exact. 17 (65): 210. 1989.</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F5">Figs 5A</xref>
+                    <xref ref-type="fig" rid="F10">10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type - Based on">
+                        <p>Type: Based on <italic><tp:taxon-name>Vernonia flexipappa</tp:taxon-name></italic> Gleason</p>
+                        <p><italic><tp:taxon-name>Vernonia flexipappa</tp:taxon-name></italic> Gleason, Bull. Torrey Bot. Club 52(5): 186.1925.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type">
+                    <title>Type:</title>
+                    <p>Ecuador. Loja: sin. loc., <italic>E. André 2250</italic> (holotype: NY, image US!; isotype: K).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p>Shrubs or small trees, 1.0–3.0 m tall; <italic>stems</italic> densely pilose with dark brown trichomes, becoming glabrous with age. <italic>Leaves</italic> with petioles 0.5–1.2 cm long; <italic>blades</italic> narrowly to broadly elliptical, mostly 3–9 cm long, 1–3 cm wide, narrowly acuminate at base and apex, margin narrowly but strongly recurved, without evident teeth or with in-turned teeth, adaxial surface dark green, glabrous or with minute appressed pubescence, secondary and tertiary veins insculpate, abaxial surface pale greenish covered with mostly appressed, stiff, brownish trichomes (rarely straw colored) intermixed with less evident whitish prostrate myceliiform branching trichomes, midvein with dense antrorse pubescence mostly on sides; <italic>secondary veins</italic> ca. 5 pairs, spreading from midvein at ca. 45° angles, strongly curved. <italic>Inflorescence</italic> scarcely exceeding vegetative leaves; <italic>branches</italic> densely pilosulous or hirtellous. <italic>Heads</italic> sessile in clusters of 3–7, ca. 10–11 mm tall × 2 mm wide; <italic>involucres</italic> cylindrical to fusiform; bracts mostly deciduous, ca. 15 in ca. 5 series, 1.0–5.5 mm long, ca. 1.2 mm wide, apices short-acute, ovate to narrowly elliptical, yellowish or with reddish median stripe, puberulous to nearly glabrous outside. <italic>Florets</italic> with corollas white to bluish white or lavender, ca. 5.5 mm long, with glandular dots on basal tube and tips of lobes, few small trichomes<!--PageBreak--> on lobe tips, tubes ca. 2 mm long, lobes ca. 4 mm long, with some non-glandular trichomes; <italic>anther thecae</italic> ca. 2 mm long. <italic>Achenes</italic> 2.0–2.5 mm long; <italic>pappus</italic> white, of ca. 50 bristles mostly ca. 6 mm long, not or scarcely broadened toward tips. <italic>Pollen</italic> grains 37–47 µm in diam.</p>
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figure 5.</label>
+                        <caption><p>Photographs of <italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> types: <bold>A</bold> <italic><tp:taxon-name>Cuatrecasanthus flexipappus</tp:taxon-name></italic>, holotype (NY) <bold>B</bold> <italic><tp:taxon-name>Cuatrecasanthus giannasii</tp:taxon-name></italic>, holotype (S).</p></caption>
+                        <graphic xlink:href="PhytoKeys-014-023-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional specimens examined">
+                    <title>Additional specimens examined.</title>
+                    <p>Ecuador. <bold>Loja:</bold> along road between Loja and Zamora, ca. km 11 [<named-content content-type="dwc:verbatimCoordinates">03°59'0"S, 79°08'16"W</named-content>, estimated], 2600 m, 2 August 1978, <italic>Zarucchi &amp; Andrade 2304</italic> (US); Carretera Loja–Zamora, km 13, 2500 m [<named-content content-type="dwc:verbatimCoordinates">03°59'00"S, 79°07'00"W</named-content>, estimated], 16 August 1983, <italic>Jaramillo &amp; Winnerskojold 5812</italic> (AAU); Loja–Zamora road, ca. km 15, <named-content content-type="dwc:verbatimCoordinates">03°58'S, 79°08'W</named-content>, 2400–2700 m, 22–23 April 1984, <italic>Madsen 74081</italic> (AAU, QCA, US); In the páramo of “El Tiro,” located at northern terminus of Podocarpus National Park, 500 m from the Loja–Zamora highway, <named-content content-type="dwc:verbatimCoordinates">03°59'S, 79°08'W</named-content>, 2940–2970 m, 14 April 1992, <italic>Keating 143</italic> (US); In the <!--PageBreak--><!--PageBreak--><!--PageBreak-->páramo and shrub páramo above the Refugio de Cajanuma (Centro de Información), Podocarpus National Park, <named-content content-type="dwc:verbatimCoordinates">04°07'00"S, 79°09'30"W</named-content>, 2800 m, 31 July 1993, <italic>Keating 409</italic> (US). <bold>Zamora-Chinchipe:</bold> 14.8 km from transit control out of Loja on ro<!--PageBreak-->ad to Zamora [<named-content content-type="dwc:verbatimCoordinates">03°59'10"S, 79°08'02"W</named-content>, estimated], 2500 m, 8 July 1983, <italic>Keeley &amp; Keeley 4104, 4105, 4106, 4107, 4108, 4109, 4110, 4111, 4115</italic> (K, US); <italic>Keeley &amp; Keeley 4112, 4114</italic> (US);Zamora, carretera Loja–Zamora, Estación Científica San Francisco, sendero hacia las antenas. Colecciones cerca del Francisco 4, en Transecto 2, <named-content content-type="dwc:verbatimCoordinates">03°58'S, 79°04'W</named-content>, 3000 m, 29 April 2000; <italic>Freire Fierro 3121</italic> (MO, US).</p>
+                    <p>Peru. <bold>Cajamarca:</bold> Prov. Jaen; E slope of Paso de Huascarai, head of Quebrada Granadillas, 15 km SE of Huancabamba, <named-content content-type="dwc:verbatimCoordinates">05°22'S, 79°20'W</named-content>, 3000 m, 10 June 1947, <italic>Fosberg 27852</italic> (US). <bold>Piura:</bold> Prov. Huancabamba; Los Llanos to Chorro Blanco (Sapalache – Chiguelas), 2650 m, <named-content content-type="dwc:verbatimCoordinates">5°08.2'S, 79°24.6'W</named-content>, 19 Oct. 2001, <italic>Sagasteguí, Dillon, Leiva, &amp; Zapata 16781</italic> (F, HUT).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Habitat">
+                    <title>Habitat.</title>
+                    <p>Roadside, burned over cloud forest on steep south-facing slope; shrub páramo at 2400–3000 m in elevation.</p>
+                    <p>The species is the most commonly collected member of the genus but apparently is sympatric with both <italic><tp:taxon-name>Cuatrecasanthus kingii</tp:taxon-name></italic> and <italic><tp:taxon-name>Cuatrecasanthus lanceolatus</tp:taxon-name></italic> in the area near the border between Loja and Zamora/Chinchipe. The species is very closely related to the northern Peruvian <italic><tp:taxon-name>Cuatrecasanthus jelskii</tp:taxon-name></italic> (Hieron.) H. Rob. The latter differs most obviously by the densely hirsute abaxial surface of the midvein of the leaves and erect rather than appressed trichomes of the abaxial blade surface. The adaxial leaf surface of the latter also has less strongly insculpate veins.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Preliminary conservation status">
+                    <title>Preliminary conservation status.</title>
+                    <p>Data Deficient</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>2.</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Cuatrecasanthus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">giannasii</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:ipni.org:names:77121072-1</object-id>
+								<object-id xlink:type="simple">http://species-id.net/wiki/Cuatrecasanthus_giannasii</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Stutts) H. Rob. &amp; V.A. Funk</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">comb. nov.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F5">Figs 5B</xref>
+                    <xref ref-type="fig" rid="F10">10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type - Based on">
+                        <p>Type: Based on <italic><tp:taxon-name>Vernonia giannasii</tp:taxon-name></italic> Stutts</p>
+                        <p><italic><tp:taxon-name>Vernonia giannasii</tp:taxon-name></italic> Stutts, Brittonia 32(2): 162 (1980).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type">
+                    <title>Type.</title>
+                    <p>Ecuador. Morona-Santiago [formerly Santiago-Zamora]: Camino Cuenca, General Plaza (Limon), 39–41, [<named-content content-type="dwc:verbatimCoordinates">02°59'S, 78°41'W</named-content>, estimated], 2300 m, 19 September 1967, <italic>B. Sparre 18721</italic> (holotype: S!).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p><italic>Vines or scrambling shrubs</italic>; stems flexuous, densely pilose with long, mostly single-celled trichomes. <italic>Leaves</italic> with petioles 0.4–0.7 cm long; <italic>blades</italic> subchartaceous, elliptical, mostly 3.5–8.5 cm long, 1.0–2.5 cm wide, acuminate at base, acute to short-acuminate at apex, margins appearing entire, narrowly recurved, with inflexed teeth distally, adaxial surface, dark green, bullulate, sparsely short-scabridulous, secondary and tertiary veins insculpate, abaxial surface pale green with thin white cover of myceliiform branched trichomes, minutely pilosulous with pale trichomes on veins, without dark trichomes, all veins and veinlets exsculpate; <italic>secondary veins</italic> ca. 5 or 6 on each side of midvein, spreading at base at 45–50° angles, curved and more strongly ascending near margins. <italic>Inflorescence</italic> terminal and from axils of uppermost leaves, not or scarcely exceeding the leaves, rounded corymbiform; branches short, puberulous. <italic>Heads</italic> sessile with up to 9 clustered in dense glomerules, 8–10 mm tall, ca. 2 mm wide; <italic>involucre</italic> cylindrical or narrowed distally and fusiform, bracts ca. 16 in ca. 5 series, short-ovate to oblong elliptical, 2.0–5.5 mm long, 1.0–1.5 mm wide, apices short-acute, slightly darkened distally, sometimes with reddish median line, glabrous outside. <italic>Florets</italic> with corollas pale lavender, ca. 6.5 mm long, with glandular dots on basal tube and tips of lobes, tubes ca. 2.5 mm long, lobes ca. 4 mm long; <italic>anther thecae</italic> ca. 2.5 mm long. <italic>Achenes</italic> ca. 2.5 mm long; <italic>pappus</italic> white, of ca. 40 capillary bristles ca. 6.5 mm long, distinctly broadened toward tips. <italic>Pollen</italic> grains ca. 40 µm in diam.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional specimens examined">
+                    <title>Additional specimens examined. </title>
+                    <p>Ecuador. <bold>Loja:</bold> Loja to Zamora, 1876, <italic>André K1152</italic> (F, NY). <bold>Morona-Santiago</bold> [formerly Santiago-Zamora]: Eastern slope of the cordillera, Valley of the ríos Negro and Chupianza (on trail from Sevilla de Oro to Mendez, Tambo Consuelo to Tambo Cerro Negro, [<named-content content-type="dwc:verbatimCoordinates">01°49'S, 78°23'W</named-content>, estimated], 2400-3000 m, 17 December 1944, <italic>Camp E-1619</italic> (NY, US).</p>
+                    <p>The species is known only from Morona-Santiago and Loja, Ecuador, between 2300 and 3200 m in elevation (<xref ref-type="fig" rid="F10">Fig. 10</xref>).</p>
+                    <p>Camp describes the habit as a vine and this character would easily distinguish the species, but the type specimen has no information on the habit and it appears to be a sturdier plant. Only new collections that document the habit will resolve this issue.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Preliminary conservation status">
+                    <title>Preliminary conservation status.</title>
+                    <p>Data Deficient<!--PageBreak--></p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>3.</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Cuatrecasanthus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">jelski</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Cuatrecasanthus_jelski</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Hieron.) H. Rob., Revista Colomb. Ci. Exact. 17 (65): 210 (1989).</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F6">Figs 6A</xref>
+                    <xref ref-type="fig" rid="F10">10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type - Based on">
+                        <p>Type: Based on <italic><tp:taxon-name>Eremanthus jelskii</tp:taxon-name></italic> Hieron.</p>
+                        <p><italic><tp:taxon-name>Eremanthus jelskii</tp:taxon-name></italic> Hieron., Bot. Jahrb. Syst. 36(5): 462 (1905), non <italic><tp:taxon-name>Vernonia jelskii</tp:taxon-name></italic> Hieron., Bot. Jahrb. Syst. 36(5): 459 (1905).</p>
+                        <p>Type: Peru. Cajamarca: Prope Shanyn (Quebrada Lejia) [probably not far from Tambillo] [<named-content content-type="dwc:verbatimCoordinates">05°40'50"S, 79°16'7"W</named-content>, Cerro Tambillo, estimated], <italic><tp:taxon-name>Jelski 776</tp:taxon-name></italic> (holotype: B, destroyed, photos F, US! [F neg. 14657]; lectotype, designated here: US!).</p>
+                        <p><italic><tp:taxon-name>Vernonia shanynensis</tp:taxon-name></italic> MacLeish, Syst. Bot. 9 (2): 135 (1984), nom. nov. for <italic><tp:taxon-name>Eremanthus jelskii</tp:taxon-name></italic>.</p>
+                        <p>Type: Based on <italic><tp:taxon-name>Eremanthus jelskii</tp:taxon-name></italic> Hieron.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                	<title>Description.</title>
+                		<p><italic>Shrubs or small trees</italic>, 1.0–3.0 m tall; <italic>stems</italic> densely velutinous (short velvety) with dark brown trichomes. <italic>Leaves</italic> with petioles 0.3–0.5 cm long; <italic>blades</italic> narrowly to broadly elliptical, mostly 3–10 cm long, 1–2.5 cm wide, narrowly acuminate at base and apex, margin narrowly but strongly recurved, with few inturned teeth distally, adaxial surface dark green, glabrous or with appressed puberulence, secondary and tertiary veins insculpate, abaxial surface pale green covered with erect, stiff, yellowish trichomes intermixed with less evident whitish prostrate myceliiform branching trichomes, midvein with dense spreading pubescence; <italic>secondary veins</italic> ca. 5–6 pairs, spreading from midvein at 45–55° angles, strongly arched. <italic>Inflorescence</italic> scarcely exceeding vegetative leaves, with intermixed foliiform bracteoles; <italic>branches</italic> densely pilosulous or hirtellous. <italic>Heads</italic> sessile in clusters of 3–7 within larger glomerules, 10−11 mm tall × 1.5−2.0 mm wide; <italic>involucres</italic> cylindrical to fusiform; <italic>bracts</italic> ca. 9–12 in ca. 4 series, 1–5 mm long, ca. 1.2 mm wide, apices short-acute, ovate to narrowly elliptical, yellowish darkened tip, outer bracts puberulous, inner bracts glabrous outside. <italic>Florets</italic> with corollas violet, ca. 6 mm long, with glandular dots on tube and tips of lobes, tubes ca. 2.5 mm long, lobes ca. 3.5 mm long; <italic>anther thecae</italic> deep purple, ca. 3 mm long. <italic>Achenes</italic> 2.0–2.5 mm long; <italic>pappus</italic> white, of 32–ca. 50 bristles mostly ca. 6 mm long, not or scarcely broadened toward tips. <italic>Pollen</italic> grains 37–47 µm in diam.</p>
+                <fig id="F6" position="float" orientation="portrait">
+                    <label>Figure 6.</label>
+                    <caption><p>Photographs of <italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> types: <bold>A</bold> <italic><tp:taxon-name>Cuatrecasanthus jelskii</tp:taxon-name></italic>, lectotype (US) <bold>B</bold> <italic><tp:taxon-name>Cuatrecasanthus kingii</tp:taxon-name></italic>, holotype (US).</p></caption>
+                    <graphic xlink:href="PhytoKeys-014-023-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional specimen examined">
+                    <title>Additional specimen examined. </title>
+                    <p>Peru. <bold>Cajamarca:</bold> Prov. Cutervo; La Pucarilla, entre Sócota y San Andrés [<named-content content-type="dwc:verbatimCoordinates">6°16'S, 78°42'W</named-content>, estimated based on elevation], 2500–2650 m, 24 June 1988, <italic>Sánchez Vega 4868</italic> (CPUN, F, US); 2450 m, 14 November 1986, <italic>Mostacero, Leiva, Mejía, Peláez, &amp; Guevara 1631</italic> (F, HUT); 2 Nov 1991, <italic>Sánchez Vega, Sagastegui &amp; Guevara 5990</italic> (CPUN); Prov. San Ignacio; Cordillera del Condor, Munic. Dist. Huarango, Nuevo Mundo, Caserio Rey del Oriente, arriba, Caseríos Gosén [<named-content content-type="dwc:verbatimCoordinates">5°19'S, 78°43'W</named-content>, estimated for CG but elevation too low] y Pisaguas, 1800 m, 26 July 1997, <italic>Rodríguez &amp; Campos 1816</italic> (MO, US). <bold>Lambayeque:</bold> Prov. Ferrañafe; Paso Upaypecc, Cañaris [<named-content content-type="dwc:verbatimCoordinates">6°03'S, 79°16'W</named-content>, estimated for Cañaris], 3000 m, 25 June 1989, <italic>Llatas Quiroz 2499</italic> (F).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Habitat">
+                    <title>Habitat.</title>
+                    <p><italic>Rodríguez &amp; Campos 1816</italic> was described as having been collected in primary forest. The range in elevation that has been reported is 1800–3000 m (<xref ref-type="fig" rid="F10">Fig. 10</xref>).</p>
+                    <p>This species was the first member of the genus to be described. At the time of its description, a comparison was made to Brazilian species of <italic><tp:taxon-name>Eremanthus</tp:taxon-name></italic>, members of the comparatively distantly related subtribe <tp:taxon-name>Lychnophorinae</tp:taxon-name>. Herbaria that might hold Jelski collections from Peru and therefore might have additional isolectotypes (according to <xref ref-type="bibr" rid="B1">Chaudhri et al. 1972</xref>) are F, KRA, NY and W.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Preliminary conservation status">
+                    <title>Preliminary conservation status.</title>
+                    <p>Data Deficient</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>4.</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Cuatrecasanthus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">kingii</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:ipni.org:names:77121073-1</object-id>
+								<object-id xlink:type="simple">http://species-id.net/wiki/Cuatrecasanthus_kingii</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>H. Rob. &amp; V.A. Funk</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">sp. nov.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F6">Figs 6B</xref>
+                    <xref ref-type="fig" rid="F7">7</xref>
+                    <xref ref-type="fig" rid="F10">10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type">
+                    <title>Type.</title>
+                    <p>Ecuador. Zamora–Chinchipe: 17 km E of Loja on the road to Zamora [<named-content content-type="dwc:verbatimCoordinates">03°58'53"S, 79°06'31"W</named-content>, estimated], 7800 ft [2370 m], 31 January 1979, <italic>King &amp; Almeda 7928</italic> (holotype: US!; isotype: CAS).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p><italic>Shrubs</italic> to 1 m tall, bases erect or decumbent to rhizomate; <italic>stems</italic> densely lanulate with tawny mostly single-celled trichomes. <italic>Leaves</italic> with petioles 0.8<!--PageBreak--><!--PageBreak-->–2.0 cm long; <italic>blades</italic> ovate to elliptical, mostly 3.5–8.5 cm long, 2–3 cm wide; base acuminate, apex short-acuminate, margins appearing entire, narrowly recurved, with incurved teeth distally, adaxial surface dark, epidermal cells often paler in area along veins, surface plane or with slightly insculpate veins, densely hispidulous with stiff trichome bases, abaxial surface densely lanulate to sericeous with tawny trichomes, at surface with dense white cover of myceliumiiform stellate trichomes; <italic>secondary veins</italic> ca. 5 or 6 on each side of midvein, spreading at base at 45–50° angles, curved and more strongly ascending near margins. <italic>Inflorescence</italic> distinctly exceeding reduced distal leaves, with few long ascending branches; <italic>branches</italic> tomentellous with dark hairs. <italic>Heads</italic> sessile and with up to 12 clustered in dense ultimate glomerules, up to 10 mm tall, ca. 2 mm wide; <italic>involucre</italic> cylindrical or narrowed distally and fusiform, bracts brown, ca. 16 in ca. 5 series, short-ovate to oblong elliptical, 2.0–5.5 mm long, 1.0–1.5 mm wide, apices short-acute, slightly darkened distally, sometimes with reddish median line, scarious, glabrous outside. <italic>Florets</italic> with corollas possibly pale lavender, ca. 6.5 mm long, with numerous glandular dots on basal tube and few on tips of lobes, tips of lobes paucipilosulous, tube ca. 2.5 mm long, lobes ca. 4 mm long; <italic>anther thecae</italic> ca. 2.5 mm long. <italic>Achenes</italic> ca. 2.5 mm long; <italic>pappus</italic> white, of ca. 50 capillary bristles ca. 6.5 mm long, not or scarcely broadened toward tips. <italic>Pollen</italic> grains 35–42 µm in diam.</p>
+                    <fig id="F7" position="float" orientation="portrait">
+                        <label>Figure 7.</label>
+                        <caption><p><italic><tp:taxon-name>Cuatrecasanthus kingii</tp:taxon-name></italic>: <bold>A</bold> Habit <bold>B</bold> Detail of adaxial surface of leaf <bold>C</bold> Cluster of heads <bold>D</bold> Single head containing one floret <bold>E</bold> Floret showing corolla lobes divided to base of limb, with thickened margins <bold>F</bold> Style <bold>G</bold> Achene with 8–10 ribs.</p></caption>
+                        <graphic xlink:href="PhytoKeys-014-023-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional specimen examined">
+                    <title>Additional specimen examined.</title>
+                    <p>Ecuador. <bold>Loja:</bold> 10 km E of Loja on road to Zamora [<named-content content-type="dwc:verbatimCoordinates">03°59'07"S, 79°08'16"W</named-content>, estimated], 2500 m, 31 January 1979, <italic>King &amp; Almeda 7920</italic> (CAS, US).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Habitat">
+                    <title>Habitat.</title>
+                    <p>Secondary vegetation bordering steep wooded slopes; wet windswept forested ridge interspersed with pastures at elevations of 2370–2500 m (<xref ref-type="fig" rid="F10">Fig. 10</xref>).</p>
+                    <p>The species has the most broadly elliptical leaf blades of any member of the genus. The most distinctive feature, however, is the mostly flat and hispidulous adaxial surface of the leaves. The distribution is restricted to the area near the pass between the Ecuadorian provinces of Loja and Zamora-Chinchipe (<xref ref-type="fig" rid="F10">Fig. 10</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Preliminary conservation status">
+                    <title>Preliminary conservation status.</title>
+                    <p>Data Deficient</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>5.</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Cuatrecasanthus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">lanceolatus</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:ipni.org:names:77121074-1</object-id>
+								<object-id xlink:type="simple">http://species-id.net/wiki/Cuatrecasanthus_lanceolatus</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>H. Rob. &amp; V.A. Funk</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">sp. nov.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F8">Figs 8A</xref>
+                    <xref ref-type="fig" rid="F9">9</xref>
+                    <xref ref-type="fig" rid="F10">10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type">
+                    <title>Type.</title>
+                    <p>Ecuador. Zamora-Chinchipe:Loja–Zamora, km 20.6, <named-content content-type="dwc:verbatimCoordinates">03°57'S, 79°05'W</named-content>, 2650 m, 9 August 1997, <italic>G.P.Lewis 3424</italic> (holotype: US!; isotypes: AAU!, GB, K, LOJA, MO, QCA, QCNE).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p><italic>Shrubs to small trees</italic> up to 2 m high; <italic>stems</italic> flexuous above, hexagonal, densely pilose with brownish trichomes. <italic>Leaves</italic> with petioles mostly 0.5–1.5 cm long; <italic>blades</italic> lanceolate, broadest at basal 1/3, 4.0–9.5 cm long, 1–3 cm wide, apex distally narrowly acute, not acuminate, margins not or scarcely recurved distally, with marginal teeth projecting upward or outward (may vary in intensity), not inward, adaxial surface <!--PageBreak-->dark green, lamina dotted with gland-like persistent or aborted stumps of small scaber, with weakly insculpate veins, abaxial surface gray-green, tawny-pilose, sometimes contorted, denser on veins, with thin grayish prostrate myceliiform branching trichomes; <italic>secondary veins</italic> in 4–5 pairs, strongly ascending. <italic>Inflorescence</italic> distinctly exceeding the reduced distal leaves, main axis and branches mostly deflected at nodes, rounded corymbiform; <italic>branches</italic> tomentellous. <italic>Heads</italic> sessile in clusters of 2–6 congested in larger dense glomerules, 10–11 mm high × 2 mm wide; <italic>involucres</italic> cylindrical or fusiform, ca. 16 in ca. 5 series, 1.0–4.5 mm long, ca. 1.2 mm wide, short-acute, greenish brown, darkened at tips or along midvein distally, glabrous. <italic>Florets</italic> with corollas pink-lilac, ca. 6 mm long, with numerous glandular dots on basal tubes, with a few short hairs at apices of tubes, tubes ca. 2 mm long, lobes ca. 4 mm long; <italic>anther thecae</italic> dark reddish brown, ca. 2.5 mm long. <italic>Achenes</italic> ca. 2 mm long; <italic>pappus</italic> white, of ca. 45 capillary bristles ca. 6.5 mm long, not or scarcely broadened at tips. <italic>Pollen</italic> grains ca. 35 µm in diam.</p>
+                    <fig id="F8" position="float" orientation="portrait">
+                        <label>Figure 8.</label>
+                        <caption><p>Photographs of <italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> types: <bold>A</bold> <italic><tp:taxon-name>Cuatrecasanthus lanceolatus</tp:taxon-name></italic>, holotype (US) <bold>B</bold> <italic><tp:taxon-name>Cuatrecasanthus sandemanii</tp:taxon-name></italic>, holotype (BM).</p></caption>
+                        <graphic xlink:href="PhytoKeys-014-023-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F9" position="float" orientation="portrait">
+                        <label>Figure 9.</label>
+                        <caption><p><italic><tp:taxon-name>Cuatecasanthus lanceolatus</tp:taxon-name></italic>: <bold>A</bold> Habit <bold>B</bold> Cluster of heads <bold>C</bold> Single head containing one floret <bold>D</bold> Floret showing corolla lobes divided to base of limb, with thickened margins and apical pubescence <bold>E</bold> Style <bold>F</bold> Achene with 8–10 ribs.</p></caption>
+                        <graphic xlink:href="PhytoKeys-014-023-g009.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional specimens examined">
+                    <title>Additional specimens examined.</title>
+                    <p>Ecuador. <bold>Loja:</bold> Road to Zamora from Loja, km 12–14, near top of pass, [<named-content content-type="dwc:verbatimCoordinates">03°59'6"S, 79°08'23"W</named-content>, estimated], 2800 m, 28 September 1961, <italic>Dodson &amp; Thien 781</italic> (US-2!).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Habitat">
+                    <title>Habitat. </title>
+                    <p>Local in secondary scrub at 2650–2800 m in elevation (<xref ref-type="fig" rid="F10">Fig. 10</xref>).</p>
+                    <fig id="F10" position="float" orientation="portrait">
+                        <label>Figure 10.</label>
+                        <caption><p>Distribution map of <italic><tp:taxon-name>Cuatrecasanthus</tp:taxon-name></italic> species.</p></caption>
+                        <graphic xlink:href="PhytoKeys-014-023-g010.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Preliminary conservation status">
+                    <title>Preliminary conservation status.</title>
+                    <p>Data Deficient<!--PageBreak--><!--PageBreak--><!--PageBreak--></p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <label>6.</label>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Cuatrecasanthus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">sandemanii</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Cuatrecasanthus_sandemanii</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(H. Rob. &amp; B. Kahn) H. Rob., Revista Colomb. Ci. Exact. 17 (65): 210 (1989).</tp:taxon-authority>
+                    <xref ref-type="fig" rid="F8">Figs 8B</xref>
+                    <xref ref-type="fig" rid="F10">10</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type - Based on">
+                        <p>Type: Based on <italic><tp:taxon-name>Vernonia sandemanii</tp:taxon-name></italic> H. Rob. &amp; B. Kahn</p>
+                        <p><italic><tp:taxon-name>Vernonia sandemanii</tp:taxon-name></italic> H. Rob. &amp; B. Kahn, Phytologia 58(4): 253 (1985).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type">
+                    <title>Type:</title>
+                    <p>Peru. Huánuco: Carpish (above Huánuco) [<named-content content-type="dwc:verbatimCoordinates">09°56'47"S, 76°15'51"W</named-content>, estimated], 8500 ft [2600 m], June 1938, <italic>Cuatrecasanthus Sandeman 219</italic> (holotype: BM!; isotype: K).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p><italic>Shrubs to small trees</italic>, to 3.3 m high; <italic>stems</italic> brownish, flexuous above, terete, irregularly appressed pilosulous with short pale trichomes. <italic>Leaves</italic> with petioles mostly 1–3 mm long; <italic>blades</italic> thinly papyraceous (the only species), elliptical, broadest near middle, mostly 7–9 cm long, 1.5–2.7 cm wide, base cuneate, apex narrowly acute to short acuminate, margins narrowly recurved, less recurved at apex, margins becoming shortly serrate distally with few inrolled teeth, adaxial surface dark green, rather shiny, sparsely pilosulous, more densely pilosulous on major veins, primary, secondary and tertiary veins insculpate, abaxial surface whitish, pale sericeous on veins, between major veins whitish tomentellous with prostrate myceliiform branching trichomes; <italic>secondary veins</italic> ascending with5–9 pairs. <italic>Inflorescence</italic> distinctly exceeding the reduced distal leaves, main axis and branches somewhat deflected at nodes, larger foliiform bracts restricted to primary nodes; <italic>branches</italic> densely yellowish sericeous. <italic>Heads</italic> sessile in clusters of 2–6 and clusters congested in numerous larger dense glomerules, 10–12 mm high × 1.5–2.0 mm wide; <italic>involucres</italic> cylindrical or fusiform; involucral bracts greenish brown with exposed parts purplish, ca. 15 in 4–5 series, 1.5–5.0 mm long, ca. 1 mm wide, outer bracts ovate, glabrous to subtomentellous outside, apices rounded to short-obtuse, becoming frayed, linear to narrowly elliptical, mostly glabrous, distally slightly appressed puberulous, short-acute, darkened at tips. <italic>Florets</italic> with corollas violet, ca. 8 mm long, with numerous glandular dots outside, denser on tube and few on tips of lobes, tube 3.5–4.0 mm long, lobes 3.5–4.0 mm long, ca. 0.7 mm wide; <italic>anther thecae</italic> dark reddish brown, ca. 1.3 mm long, bases papillose-fringed; apical appendage oblong, apex rounded. <italic>Achenes</italic> ca. 2 mm long, costae shortly setuliferous, between costae glandular punctate; <italic>pappus</italic> white, of ca. 65 capillary bristles ca. 7 mm long, slightly broadened at tips. <italic>Pollen</italic> grains ca. 45 µm in diam. in fluid.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional specimens examined">
+                    <title>Additional specimens examined. </title>
+                    <p>Peru. <bold>Huánuco:</bold> Prov. Huánuco, alturas de Carpish, entre Huánuco y Tingo María [<named-content content-type="dwc:verbatimCoordinates">09°43'11"S, 76°05'56"W</named-content>, estimated], 2800 m, February 1940, <italic>Ridoutt s.n.</italic> (USM #11579, US); Carpish, entre Huánuco y Tingo María [<named-content content-type="dwc:verbatimCoordinates">09°47'56"S, 76°05'47"W</named-content>, estimated], 2800–2900 m, 22 August 1946, <italic>Ferreyra 1214</italic> (USM, US), 9 August 1947, <italic>Ferreyra 2347</italic> (US); Alrededor del Tunel de Carpish, <named-content content-type="dwc:verbatimCoordinates">09°43'37"S, 76°06'07"W</named-content>, 2800 m, 2 November 2001, <italic>Salina 230</italic> (US); Prov. Huánuco, Munic. Dist. Amarilis, Sariapampa [<named-content content-type="dwc:verbatimCoordinates">9°58'S, 76°10'W</named-content>, estimated from elevation], 3100 m, 7 May 1946, <italic>Woytkowski 34295</italic> (F, MO).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Habitat">
+                    <title>Habitat:</title>
+                    <p>Near the road in cloud forest and rain forest in semi-shade; 2800–3100 m in elevation (<xref ref-type="fig" rid="F10">Fig. 10</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Preliminary conservation status">
+                    <title>Preliminary conservation status.</title>
+                    <p>Data Deficient</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>Maria Backlund and the staff of S and Mike Dillon and the staff of F are thanked for the loans of material, including the type specimen of <italic><tp:taxon-name>Vernonia giannasii</tp:taxon-name></italic> (from S). In addition, the staff at NY and BM kindly sent images of their types for use in <xref ref-type="fig" rid="F9">Figure 9</xref>. All herbaria abbreviations are from Thiers (continuously updated). We thank Sara Alexander for making the map, Alice Tangerini for the original artwork, and the editors for their suggestions and corrections.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chaudhri</surname> <given-names>MN</given-names></name><name name-style="western"><surname>Vegter</surname> <given-names>IH</given-names></name><name name-style="western"><surname>DeWal</surname> <given-names>CM</given-names></name></person-group> (<year>1972</year>)<article-title> Index Herbariorum part II(3), Collectors I-L.</article-title> <source>Regnum Vegetabile </source> <volume>86</volume>: <fpage>1</fpage>-<lpage>473</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gleason</surname> <given-names>HA</given-names></name></person-group> (<year>1925</year>)<article-title> Studies on the flora of northern South America–V. Miscellaneous new or noteworthy species.</article-title> <source>Bulletin of the Torrey Botanical Club </source> <volume>52</volume> (<issue>5</issue>): <fpage>181</fpage>-<lpage>196</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/2479939">10.2307/2479939</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hieronymus</surname> <given-names>G [HEW]</given-names></name></person-group> (<year>1905</year>)<article-title> Plantae peruvianae a claro Constantino de Jelski collectae, Compositae.</article-title> <source>Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie </source> <volume>36</volume> (<issue>5</issue>): <fpage>458</fpage>-<lpage>573</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Keeley</surname> <given-names>SC</given-names></name><name name-style="western"><surname>Forsman</surname> <given-names>ZH</given-names></name><name name-style="western"><surname>Chan</surname> <given-names>R</given-names></name></person-group> (<year>2007</year>)<article-title> A phylogeny of the “evil tribe” (Vernonieae: Compositae) reveals Old/New World long distance dispersal: Support from separate and combined congruent datasets (<italic>tru</italic>L1, <italic>ndh</italic>F, ITS).</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>44</volume> (<issue>1</issue>): <fpage>89</fpage>-<lpage>103</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2006.12.024">10.1016/j.ympev.2006.12.024</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Robinson</surname> <given-names>H</given-names></name></person-group> (<year>1989</year>)<article-title> Two new genera of Vernonieae (Asteraceae) from the northern Andes with dissected corolla limbs <italic>Cuatrecasanthus</italic> and <italic>Joseanthus</italic>.</article-title> <source>Revista de la Academia Colombiana de Ciencias exactas, Fisicas y Naturales </source> <volume>17</volume> (<issue>65</issue>): <fpage>207</fpage>-<lpage>213</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Robinson</surname> <given-names>H</given-names></name><name name-style="western"><surname>Kahn</surname> <given-names>B</given-names></name></person-group> (<year>1985</year>)<article-title> New species of <italic>Vernonia</italic> from Bolivia and Peru (Vernonieae: Asteraceae).</article-title> <source>Phytologia </source> <volume>58</volume> (<issue>4</issue>): <fpage>252</fpage>-<lpage>257</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stutts</surname> <given-names>JG</given-names></name></person-group> (<year>1980</year>)<article-title> A new species of <italic>Vernonia</italic> (Compositae) from Ecuador.</article-title> <source><italic>Brittonia</italic> </source> <volume>32</volume> (<issue>2</issue>): <fpage>162</fpage>-<lpage>163</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/2806782">10.2307/2806782</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thiers</surname> <given-names>B</given-names></name></person-group> (<year>continuously updated</year>) <source>Index Herbariorum: A global directory of public herbaria and associated staff</source>. <publisher-name>New York Botanical Garden’s Virtual Herbarium</publisher-name>. <ext-link ext-link-type="uri" xlink:href="http://sweetgum.nybg.org/ih/">http://sweetgum.nybg.org/ih/</ext-link> </mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

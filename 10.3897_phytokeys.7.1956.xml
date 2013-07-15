@@ -1,0 +1,252 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">PhytoKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">PhytoKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">PhytoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-2011</issn>
+            <issn pub-type="epub">1314-2003</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/phytokeys.7.1956</article-id>
+            <title-group>
+                <article-title>Four new species of Sapindaceae from the Guianas</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Acevedo-Rodríguez</surname>
+                        <given-names>Pedro</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Botany, MRC-166 Smithsonian Institution, P.O. Box 37012, Washington D.C. 20013-7012, USA
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Pedro Acevedo-Rodríguez (<email xlink:type="simple">Acevedop@si.edu</email>)</p>
+                </fn>
+            <fn fn-type="edited-by">
+                    <p>Academic editor: Hanno Schaefer</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>29</day>
+                <month>11</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>7</issue>
+            <fpage>11</fpage>
+            <lpage>20</lpage>
+            <history>
+                <date date-type="received">
+                    <day>23</day>
+                    <month>8</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>12</day>
+                    <month>10</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Pedro Acevedo-Rodríguez</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>Four new species of <tp:taxon-name>Sapindaceae</tp:taxon-name> from the Guianas, South America, are described, illustrated and contrasted with their putative, relatives: <italic><tp:taxon-name>Matayba ayangannensis</tp:taxon-name></italic> Acev.-Rodr. a small shrub from Mt. Ayanganna, Guyana; and <italic><tp:taxon-name>Paullinia degranvillei</tp:taxon-name></italic> Acev.-Rodr., <italic><tp:taxon-name>Paullinia oldemanii</tp:taxon-name></italic> Acev.-Rodr., and <italic><tp:taxon-name>Paullinia prevostiana</tp:taxon-name></italic> Acev.-Rodr., three species of lianas from French Guiana.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Guyana</kwd>
+                <kwd>French Guiana</kwd>
+                <kwd><italic>Matayba ayangannensis</italic></kwd>
+                <kwd><italic>Paullinia degranvillei</italic></kwd>
+                <kwd><italic>Paullinia oldemanii</italic></kwd>
+                <kwd><italic>Paullinia prevostiana</italic></kwd>
+                <kwd>Sapindaceae</kwd>
+                <kwd>South America</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p>While working on a treatment-sec of <tp:taxon-name>Sapindaceae</tp:taxon-name> for the Flora of the Guianas (<xref ref-type="bibr" rid="B1">Acevedo-Rodríguez in prep.</xref>) four new species were discovered, one in <italic><tp:taxon-name>Matayba</tp:taxon-name></italic>, and three in <italic><tp:taxon-name>Paullinia</tp:taxon-name></italic>. In the Neotropics, <tp:taxon-name>Sapindaceae</tp:taxon-name> is a ubiquitous plant family with 37 genera and about 800 species. It is characterized by a woody habit (either trees, shrubs or lianas), compound alternate leaves, and flowers with petals usually bearing petaloid appendages on the adaxial surface. Fruit type and morphology are rather variable and often the basis for generic delimitation. <italic><tp:taxon-name>Matayba</tp:taxon-name></italic> is a Neotropical genus with about 50 species of trees or shrubs, 11 of which are found in the Guianas. <italic><tp:taxon-name>Paullinia</tp:taxon-name></italic>, also restricted to the Neotropics (except for <italic><tp:taxon-name>Paullinia pinnata</tp:taxon-name></italic>, which is found also in Africa and Madagascar), has about 200 species of lianas or climbing shrubs. <italic><tp:taxon-name>Paullinia</tp:taxon-name></italic> is the largest genus of <tp:taxon-name>Sapindaceae</tp:taxon-name> in the Guianas, with 39 species occurring there.</p>
+        </sec>
+        <sec sec-type="Taxonomic treatment"><title>Taxonomic treatment</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Matayba</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">ayangannensis</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:ipni.org:names:77115892-1</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Matayba_ayangannensis</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Acev.-Rodr.,</tp:taxon-authority>
+                    <tp:taxon-status>sp. nov.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Fig. 1A–I</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Latin"><title>Latin</title>
+                <p><italic>Frutex 2.5 metralis; foliis 4–6 foliolatis; foliolis alternis vel sub oppositus, discolores, ellipticus, apice rotundatis retusisque; calyce tomentelli, petalis obovatis.</italic></p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type"><title>Type.</title>
+                    <p>Guyana. Cuyuni-Mazaruni. Mt. Ayanganna, S.S. Tillet, C.L. Tillet, &amp; R. Boyan 45080 (holotype: NY!; isotypes: MO!, US!).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p>Shrub to 2.5 m tall. Stems glabrous, striate. Leaves paripinnate; petiole plus rachis 2–6.5 cm long, slightly flattened adaxially, striate, puberulent; petiolules ca. 5 mm long, pulvinate at base; leaflets (4) 6, 2.5–4.5 × 1.2–2.3 cm, opposite or sub-opposite, obovate, oblanceolate or nearly elliptic, rigidly coriaceous, brittle, discolorous (abaxial surface drying brownish), adaxially glabrous, abaxially puberulent, especially along midvein, the base obtuse, symmetrical, the apex emarginate or less often rounded, the margins entire, slightly revolute; abaxially the midvein prominent, secondary and tertiary veins inconspicuous, reticulate. Thyrses 8–18 cm long, axillary, on distal portion of branches, paniculate, with ferruginous-pubescent and slightly angled axes. Flowers in simple dichasia; pedicels ca. 2 mm long, pubescent. Calyx brownish yellow, ferruginous-pubescent, ca. 1 mm long, the lobes 0.5–0.7 mm long, ovate; petals ca. 2 mm long, yellowish white, obovate, emarginate at apex, lanose mostly along margins; appendages 2, ca. 1 mm long, sericeous-tomentose, supra basal; disc glabrous, pulvinate; stamens 2–2.5 mm long, the filaments lanose on lower half; ovary tomentulose, the style subcapitate. Capsules not known.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution and ecology"><title>Distribution and ecology.</title>
+                    <p>Known only from the type collection in Guyana, in low forest.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Discussion"><title>Discussion.</title>
+                    <p><italic><tp:taxon-name>Matayba ayangannensis</tp:taxon-name></italic> looks vegetatively similar to <italic><tp:taxon-name>Matayba yutajensis</tp:taxon-name></italic> Steyerm., as both species are shrubs and have leaflets with retuse apex and reticulate venation; however,  <italic><tp:taxon-name>Matayba ayangannensis</tp:taxon-name></italic>differs from the latter by its leaves with (4) 6, discolorous, brittle leaflets that are 2.5–4.5 cm long (vs. 2(4), concolorous, coriaceous, 10–18 cm long), and by its ferruginous-pubescent calyx, ca. 1 mm long (vs. glabrous or sparsely strigose at base and ca. 3.5 mm long).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>The epithet refers to Mt. Ayanganna where the type collection was made.<!--PageBreak--><!--PageBreak--></p>
+                    	<fig id="F1" position="float" orientation="portrait">
+            <label>Figure 1.</label> <caption><p><italic><tp:taxon-name>Matayba ayangannensis</tp:taxon-name></italic> <bold>A</bold> Branch with staminate flowers <bold>B</bold> Branch with pistillate flowers <bold>C</bold> Distal portion of leaf rachis showing distal process and bases of 4 leaflets <bold>D</bold> Staminate flower <bold>E</bold> Staminate flower with part of perianth removed to show nectary disc, stamens and pistillode; detail of pistillode <bold>F</bold> Pistillate flower <bold>G</bold> Pistillate flower with part of perianth removed to show nectary disc and gynoecium; detail of staminode <bold>H</bold> Abaxial, adaxial and lateral views of petal with appendages <bold>I</bold> Pistillate flower with partly developed gynoecium, l. s. of same. All from Tillet 45080 (NY).</p></caption>
+            <graphic xlink:href="PhytoKeys-007-011-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+        </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Paullinia</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">degranvillei</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:ipni.org:names:77115893-1</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Paullinia_degranvillei</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Acev.-Rodr.,</tp:taxon-authority>
+                    <tp:taxon-status>sp. nov.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F2">Fig. 2</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Latin"><title>Latin</title>
+                <p><italic>A Paullinia obovata (Ruiz &amp; Pav.) Pers. folioliis nervo reticulatis e fructo pyriformes diversa.</italic></p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type"><title>Type.</title>
+                    <p>French Guiana. Crique Caiman, rive gauche de l’ Oyapock à environ 70 km SW St. Georges, de Granville T-1065 (holotype: CAY!; isotypes: CAY!, P, US!).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p>Liana to 30 m long. Stems terete, lenticellate, ferruginous, minutely sericeous-pubescent; cross section of stem with a single vascular cylinder. Stipules ca. 0.5 mm long, triangular, early deciduous. Leaves pinnately 5-foliolate; petioles (1) 7–9 cm long; unwinged, adaxially furrowed, sericeous-pubescent to glabrous; rachis 2–8 cm long, narrowly winged or margined, sericeous-pubescent to glabrous; petiolules of distal and lateral leaflets 2–2.5 cm long, glabrous; leaflets (3.5) 12–22 × (2.7) 5.5–8 cm, elliptic, coriaceous, glabrous, the base acute or obtuse on lateral and basal leaflets, attenuate on distal leaflet, the apex obtusely acuminate to caudate, glandular at the very tip, the margins crenate or remotely glandular-dentate, revolute; venation prominent abaxially; tertiary venation reticulate. Thyrses 3–23 cm long, axillary, solitary, racemiform, with sericeous-pubescent axes; cincinni sessile, few-flowered. Flowers unknown (remnant sepals sericeous). Capsule 4–5 cm long, woody, pyriform, unwinged, reddish, long-stipitate (5–8 mm long), glabrous, pericarp ca. 4 mm thick, endocarp sparsely pubescent or glabrous. Seed unknown.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution and ecology"><title>Distribution and ecology.</title>
+                    <p>Known only from French Guiana, from submontane forest.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional specimen examined"><title>Additional specimen examined.</title>
+                    <p>French Guiana<bold>.</bold> Monts Atachi Bacca, 780 m elev., de Granville et al. 10833 (B, CAY, US).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Discussion"><title>Discussion.</title>
+                    <p><italic><tp:taxon-name>Paullinia degranvillei</tp:taxon-name></italic> seems to be closely related to <italic><tp:taxon-name>Paullinia obovata</tp:taxon-name></italic> (Ruiz &amp; Pav.) Pers. as they both have large, unwinged capsules with a thick mesocarp. <italic><tp:taxon-name>Paullinia degranvillei</tp:taxon-name></italic> differs from <italic><tp:taxon-name>Paullinia obovata</tp:taxon-name></italic> by it leaflets with tertiary reticulate venation (vs. clathrate) and by its pyriform fruits (vs. obovoid).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>The specific epithet honors Dr. Jean-Jacques de Granville, who collected the type of this new species.</p>
+                    <fig id="F2" position="float" orientation="portrait">
+            <label>Figure 2.</label><caption><p><italic><tp:taxon-name>Paullinia degranvillei</tp:taxon-name></italic>. Photo of the holotype.</p></caption>
+            <graphic xlink:href="PhytoKeys-007-011-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+        </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Paullinia</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">oldemanii</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:ipni.org:names:77115894-1</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Paullinia_oldemanii</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Acev.-Rodr.,</tp:taxon-authority>
+                    <tp:taxon-status>sp. nov.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F3">Fig. 3A–J</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Latin"><title>Latin</title>
+                <p><italic>A Paullinia venosa</italic> Radlk. <italic>foliis menores, foliis rachides alatis et foliolis distalis obovatis diversa.</italic></p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type"><title>Type.</title>
+                    <p>French Guiana. Fleuve Oyapock, 300 m après le camp saut Moutouci, Oldeman B-3223 (holotype: US; isotype: CAY).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p>Liana to 10 m long. Stems terete, minutely sericeous-pubescent, lenticellate; cross section with a single vascular cylinder. Stipules ca. 1mm long, deltate, early deciduous. Leaves 5-pinnate foliolate; petioles 1–5 cm long, unwinged, glabrous; rachis 1–1.8 cm long, narrowly winged or margined, glabrous; leaflets 6–9.5 × 2–3.5 cm, chartaceous, elliptic, oblong, or rarely lanceolate, glabrous except for the minute hairy domatia in the secondary vein axils, distal leaflet obovate, the base decurrent on distal leaflet, obtuse on laterals, and obtuse to truncate on proximal ones, the apex obtusely acuminate to nearly caudate, margins sinuate, the lateral and proximal leaflets with a glandular tooth on both margins near the base; tertiary venation finely reticulate. Thyrses 7–13 cm long, axillary, racemiform, solitary, the axes ferruginous-tomentulose; cincinni sessile, few-flowered; bracts and bracteoles minute, deltate. Pedicels 1.5–2 mm long, articulate near the middle, ferruginous-tomentulose. Calyx sparsely appressed-pubescent, sepals 5, concave, with ciliate-glandular margins, the outer ones ca. 1.5 mm long, ovate to rounded, the inner ones 3–4 mm long; petals ca. 4 mm long, oblong, rounded at apex, shortly clawed at base, adaxially papillate; appendages as long as the petals, crest of posterior appendages with 2 corniform projections at apex, lateral ones with 1 corniform projection, these ca. 1.7 mm long; nectary with 2 deltate, pubescent lobes ca. 1 mm tall; filaments 2–4 mm long, of unequal lengths, pubescent on lower half; anthers ca. 1 mm long, ellipsoid; gynoecium ferruginous-tomentulose, clavate, with three stigmatic branches. Capsule (immature) unwinged, long-stipitate, smooth, nearly globose.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution and ecology"><title>Distribution and ecology.</title>
+                    <p>Known from French Guiana and Brazil (Amazonas), in riverside and moist forests.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional specimens examined"><title>Additional specimens examined.</title>
+                    <p>French Guiana<bold>.</bold> Oyapok River, Oldeman B-3418 (MO), Saut Kouamantapéré, Oldeman T-662 (CAY); Saut Tainoua, riverside forest, de Granville 387 (CAY, MO, US). Brazil. Amazonas; ca. 4 kn NW of Balbina dam, Thomas et al. 5354 (NY).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Discussion"><title>Discussion.</title>
+                    <p><italic><tp:taxon-name>Paullinia oldemanii</tp:taxon-name></italic> seems to be closely related to <italic><tp:taxon-name>Paullinia venosa</tp:taxon-name></italic> Radlk. as they share similar vegetative and fruit morphologies. <italic><tp:taxon-name>Paullinia oldemanii</tp:taxon-name></italic> however differs from <italic><tp:taxon-name>Paullinia venosa</tp:taxon-name></italic> by its abaxially puberulent leaflets 1.7–7 cm long (vs. glabrous and 3.5–17 cm long), distal leaflets obovate (vs. oblong or lanceolate), leaf rachis narrowly winged or margined (vs. terete, unwinged) and its calyx of 5 sepals (vs. 4 sepals).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>The specific epithet honors Professor Dr. R.A. Oldeman, collector of the type specimen<!--PageBreak--><!--PageBreak-->.</p>
+        <fig id="F3" position="float" orientation="portrait">
+            <label>Figure 3.</label><caption><p><italic><tp:taxon-name>Paullinia oldemanii</tp:taxon-name></italic> <bold>A</bold> Flowering branch, with detail of distal portion of leaf, showing glandular teeth near the base of lateral leaflets <bold>B</bold> Cincinnus <bold>C</bold> Flower bud <bold>D</bold> Staminate flower, lateral view <bold>E</bold> Posterior and lateral petals with adnate appendages <bold>F</bold> Staminate flower with part of perianth removed, showing nectary lobes and stamens <bold>G</bold> Stamens and nectary lobes, anterior and lateral views; H Pistillode <bold>I</bold> Fruiting branch <bold>J</bold> Fruit. <bold>A-H</bold> from Oldeman B-3223 (US),; <bold>I-J</bold> from Thomas et al. 5354 (NY).</p></caption>
+            <graphic xlink:href="PhytoKeys-007-011-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+        </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Paullinia</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">prevostiana</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:ipni.org:names:77115895-1</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Paullinia_prevostiana</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>Acev.-Rodr.,</tp:taxon-authority>
+                    <tp:taxon-status>sp. nov.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F4">Fig. 4A–I</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Latin"><title>Latin</title>
+                <p><italic>A paullinia tenuifolia Standl. foliis magni, hispidulosi; rachides tereti, hispidulosi; sepaliis exteriores minoriis diversa.</italic></p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type"><title>Type.</title>
+                    <p>French Guiana. Piste de St. Elie, primary forest, 5 17N; 53 3W, 6 Nov 1999, Prévost 3741 (holotype: US!; isotype: CAY!).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                    <p>Slender, woody vine 15–30 m long. Stems terete, striate, hispidulous, becoming glabrous, cylindrical, and lenticellate with age, not producing milky sap; cross section of stem with a single vascular cylinder. Stipules 5–12 mm long, subulate or linear, hispidulous. Leaves pinnately 5-foliolate; petiole and rachis unwinged, hispid; petioles 3.5–10 cm long; rachis 3–6 cm long; leaflets 5–18 × 3.5–9 cm, ovate, elliptic, oblong-elliptic, or obovate, chartaceous, upper surface glabrous except for the pubescent to tomentose mid and secondary veins, lower surface sparsely pilose, especially on veins, the base obtuse to rounded on lateral leaflets, cuneate or acuminate on distal leaflets, the apex acuminate to long acuminate, the margins remotely dentate with glandular teeth, ciliate; tertiary venation clathrate. Thyrses ca. 10 cm long, without tendrils, cauliflorous, fasciculate, with hispidulous axes; cincinni sessile, opposite, 4- to 5-flowered. Pedicels 4.5–6 mm long, articulate near the base. Calyx light green, appressed-pubescent, sepals 5, concave, rounded at apex, the outer sepals 1.5–2 mm long, ovate, the inner sepals 3–3.5 mm long; petals ca. 5 mm long, white, oblong, slightly asymmetrical, shortly clawed at base, rounded at apex, papillate on both surfaces; appendages ca. 4 mm long, crest of posterior appendages with 2 corniform, fleshy projections at apex, the ligule sub-lanose; disc 4-lobed, glabrous, the posterior lobes ovate, dorsally flattened, the lateral lobes similar, but smaller than the posterior ones; torus hispidulous; filaments 4–7 mm long, of unequal lengths, flattened, densely lanose; anthers ca. 0.7 mm long. Capsules ca. 15 mm long, fusiform, sometimes keeled or narrowly winged along dorsal side of pericarp, ferruginous, short-pilose, stipitate at base; endocarp wooly-pubescent. Seed obovoid, dark brown, glabrous, with a sarcotesta on lower ⅓, the sarcotesta dorsally notched.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution and ecology"><title>Distribution and ecology.</title>
+                    <p>Known only from Guyana and French Guiana, in dense, humid forests, to be expected in Suriname.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Additional specimens studied"><title>Additional specimens studied.</title>
+                    <p>Guyana: Bartica. Linder 152 (NY). French Guiana: Camopi River, summit of Alikéné Mt., Oldeman &amp; Sastre 301 (MO, US-2). Crique Grégoire, Deward 129 (CAY), savanna, Girard 189 (CAY). Noragues Field Station, Petit Plateau, ca. 200 m elev., Mori et al. 25555 (CAY, NY, US), forest at base of inselberg, Larpin 1035 (CAY-2, US). Région de Cayenne. south of Mt des Chevaux, Cremers 5310 (CAY).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Discussion"><title>Discussion.</title>
+                    <p><italic><tp:taxon-name>Paullinia prevostiana</tp:taxon-name></italic> seems to be closely related to <italic><tp:taxon-name>Paullinia tenuifolia</tp:taxon-name></italic> Standl. as they share the following characters: Leaves pinnately 5-foliolate, terete stems with a single vascular cylinder; and cauliflorous inflorescence. <italic><tp:taxon-name>Paullinia prevostiana</tp:taxon-name></italic> differs <!--PageBreak--><!--PageBreak-->however by its hispid leaves (vs. puberulent or glabrous), leaflets 5–18 cm long (vs. 3.5–11 cm) and its outer sepals much shorter than the inner ones (vs. nearly as long as the inner ones).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                    <p>The specific epithet honors Dr. Marie Françoise Prévost, plant ecologist at IRD who has collected numerous plant specimens from French Guiana, including the type of this species.</p>
+        <fig id="F4" position="float" orientation="portrait">
+            <label>Figure 4.</label><caption><p><italic><tp:taxon-name>Paullinia prevostiana</tp:taxon-name></italic> <bold>A</bold> Branch with leaf and tendrils, detail of marginal tooth, and detail of petiole pubescence <bold>B</bold> Inflorescence and detail of cincinnus <bold>C</bold> Flower bud <bold>D</bold> Staminate flower, lateral view <bold>E</bold> Lateral petal with appendage <bold>F</bold> Staminate flower with perianth removed to show nectary glands and stamens <bold>G</bold> Staminate flower with perianth and few stamens removed to show nectary glands and pistillode, detail of pistillode <bold>H</bold> Larger leaf <bold>I</bold> Capsule, un-dehisced and dehisced showing seed, basal sarcotesta, and funiculus. <bold>A-G</bold> from Prevost 3741 (US); <bold>H-I</bold> from Mori et al. 25555 (NY).</p></caption>
+            <graphic xlink:href="PhytoKeys-007-011-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+        </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>I thank Bobbi Angell for illustrating the new species, Mark T. Strong for proofreading the manuscript, Ingrid Pol-Yin for photographing the type of <italic><tp:taxon-name>Paullinia degranvillei</tp:taxon-name></italic>, Douglas C. Daly and Genise Somner for their valuable comments, and the curators of CAY, K, MO, and NY for making their collections available for this study.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple">Acevedo-Rodríguez (in prep.) Sapindaceae. Flora of the Guianas.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

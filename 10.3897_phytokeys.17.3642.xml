@@ -1,0 +1,299 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">PhytoKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">PhytoKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">PhytoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-2011</issn>
+            <issn pub-type="epub">1314-2003</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/phytokeys.17.3642</article-id>
+            <title-group>
+                <article-title>A new combination in 
+                    <italic>Lapanthus</italic> (Bromeliaceae)
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Louzada</surname>
+                        <given-names>Rafael Batista</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Wanderley</surname>
+                        <given-names>Maria das Graças Lapa</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Departamento de Botânica, Instituto de Biociências, Universidade de São Paulo, São Paulo, SP, Brazil
+            </aff>
+            <aff id="A2">
+                <label>2</label>Instituto de Botânica, Secretaria do Meio Ambiente, 01061–970, São Paulo, SP, Brazil
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Rafael Batista Louzada (<email xlink:type="simple">rafael_louzada@hotmail.com</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: L. Versieux</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>26</day>
+                <month>10</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>17</issue>
+            <fpage>63</fpage>
+            <lpage>68</lpage>
+            <history>
+                <date date-type="received">
+                    <day>8</day>
+                    <month>7</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>17</day>
+                    <month>10</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Rafael Batista Louzada, Maria das Graças Lapa Wanderley</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>A new combination, <italic><tp:taxon-name>Lapanthus vidaliorum</tp:taxon-name></italic> (O.B.C. Ribeiro &amp; C.C. Paula) Louzada &amp; Wand. is proposed for <italic><tp:taxon-name>Orthophytum vidaliorum</tp:taxon-name></italic> O.B.C. Ribeiro &amp; C.C. Paula. In addition notes on taxonomy, geographic distribution and conservation are provided.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Bromelioideae</kwd>
+                <kwd><italic>Cryptanthus</italic></kwd>
+                <kwd>Espinhaço Range</kwd>
+                <kwd>Minas Gerais</kwd>
+                <kwd><italic>Orthophytum</italic></kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p><italic><tp:taxon-name>Lapanthus</tp:taxon-name></italic> Louzada &amp; Versieux is a small genus comprising two species occurring in the southern portion of the Espinhaço Range in the Brazilian state of Minas Gerais. The species inhabits quartzitic rocky outcrops near waterfalls and gallery forests in rocky fields or areas of transitional vegetation between semideciduous seasonal forests and rocky fields (<xref ref-type="bibr" rid="B3">Louzada and Versieux 2010</xref>).</p>
+            <p><italic><tp:taxon-name>Lapanthus</tp:taxon-name></italic> was established to accommodate two species, one previously included in <italic><tp:taxon-name>Orthophytum</tp:taxon-name></italic> Beer and the other in <italic><tp:taxon-name>Cryptanthus</tp:taxon-name></italic> Otto &amp; A. Dietr. (<xref ref-type="bibr" rid="B3">Louzada and Versieux 2010</xref>). The two originally recognized species of <italic><tp:taxon-name>Lapanthus</tp:taxon-name></italic> (<italic><tp:taxon-name>Lapanthus duartei</tp:taxon-name></italic> (L.B. Sm.) Louzada &amp; Versieux and <italic><tp:taxon-name>Lapanthus itambensis</tp:taxon-name></italic> (Versieux &amp; Leme) Louzada &amp; Versieux)were segregated from <italic><tp:taxon-name>Cryptanthus</tp:taxon-name></italic> and <italic><tp:taxon-name>Orthophytum</tp:taxon-name></italic> respectively due to the presence of characters apparently contradictory to the current circumscriptions of those genera, which include ciliate petal margins, presence of a pair of lanceolate petal appendages, and free stamens (<xref ref-type="bibr" rid="B3">Louzada and Versieux 2010</xref>). The decision to describe a new genus <!--PageBreak-->to accommodate the species with these characters was also supported by the evidence of paraphyletism of <italic><tp:taxon-name>Orthophytum</tp:taxon-name></italic> presented in the molecular phylogeny of <tp:taxon-name>Bromelioideae</tp:taxon-name> (<xref ref-type="bibr" rid="B5">Schulte et al. 2009</xref>). In this study, <italic><tp:taxon-name>Orthophytum supthutii</tp:taxon-name></italic> E. Gross &amp; Barthlott, recently synonymized under <italic><tp:taxon-name>Lapanthus duartei</tp:taxon-name></italic>, arises as the sister group of a clade including <italic><tp:taxon-name>Cryptanthus glaziovii</tp:taxon-name></italic> Mez, <italic><tp:taxon-name>Orthophytum disjunctum</tp:taxon-name></italic> L.B. Sm. and <italic><tp:taxon-name>Orthophytum maracasense</tp:taxon-name></italic> L.B. Sm.</p>
+            <p>The phylogenetic relationship of the genus is further elucidated by a study on molecular phylogeny where <italic><tp:taxon-name>Lapanthus</tp:taxon-name></italic> arises as a monophyletic group, sister to a <italic><tp:taxon-name>Cryptanthus</tp:taxon-name></italic> clade comprising species of <italic><tp:taxon-name>Cryptanthus</tp:taxon-name></italic> subgen. <italic><tp:taxon-name>Cryptanthus</tp:taxon-name></italic> (Louzada et al. in prep.).</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+								<label>Table 1.</label>
+                <caption><p>Comparison of some diagnostic characters of <italic><tp:taxon-name>Lapanthus</tp:taxon-name></italic>, <italic><tp:taxon-name>Cryptanthus</tp:taxon-name></italic> and <italic><tp:taxon-name>Orthophytum</tp:taxon-name></italic>.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">Character</th>
+                            <th rowspan="1" colspan="1"><italic><tp:taxon-name>Lapanthus</tp:taxon-name></italic></th>
+                            <th rowspan="1" colspan="1"><italic><tp:taxon-name>Cryptanthus</tp:taxon-name></italic></th>
+                            <th rowspan="1" colspan="1"><italic><tp:taxon-name>Orthophytum</tp:taxon-name></italic></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Inflorescence</td>
+                            <td rowspan="1" colspan="1">sessile</td>
+                            <td rowspan="1" colspan="1">sessile</td>
+                            <td rowspan="1" colspan="1">pedunculate or sessile</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Sepals</td>
+                            <td rowspan="1" colspan="1">white</td>
+                            <td rowspan="1" colspan="1">green</td>
+                            <td rowspan="1" colspan="1">green or red</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Petal margins</td>
+                            <td rowspan="1" colspan="1">ciliate</td>
+                            <td rowspan="1" colspan="1">entire or ciliate</td>
+                            <td rowspan="1" colspan="1">entire</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Petal appendages type</td>
+                            <td rowspan="1" colspan="1">lanceolate</td>
+                            <td rowspan="1" colspan="1">absent</td>
+                            <td rowspan="1" colspan="1">sacciform, cupuliform or fimbriate</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Antepetalous stamens</td>
+                            <td rowspan="1" colspan="1">free</td>
+                            <td rowspan="1" colspan="1">adnate, rarely free</td>
+                            <td rowspan="1" colspan="1">adnate</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Epigynous tube</td>
+                            <td rowspan="1" colspan="1">absent</td>
+                            <td rowspan="1" colspan="1">absent or short</td>
+                            <td rowspan="1" colspan="1">present</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Meiotic chromosome number</td>
+                            <td rowspan="1" colspan="1"><italic>n</italic> = 50</td>
+                            <td rowspan="1" colspan="1"><italic>n</italic> = 17</td>
+                            <td rowspan="1" colspan="1"><italic>n</italic> = 25</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Mitotic chromosome number</td>
+                            <td rowspan="1" colspan="1">2<italic>n</italic> = 50</td>
+                            <td rowspan="1" colspan="1">2<italic>n</italic> = 34, 36, 54</td>
+                            <td rowspan="1" colspan="1">2<italic>n</italic> = 50, 100, 150</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <sec sec-type="Taxonomy">
+            <title>Taxonomy</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Lapanthus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">vidaliorum</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:ipni.org:names:77122665-1</object-id>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Lapanthus_vidaliorum</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>(O.B.C. Ribeiro &amp; C.C. Paula) Louzada &amp; Wand.</tp:taxon-authority>
+                    <tp:taxon-status>comb. nov.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F1">Figs 1, A–B</xref>
+                    <xref ref-type="fig" rid="F2">, 2</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Orthophytum vidaliorum</tp:taxon-name><comment> O.B.C. Ribeiro &amp; C.C. Paula. Brittonia 62: 145, f. 1. 2010. Type: Brazil. Minas Gerais: Santa Bárbara, Serra de Capanema, <named-content content-type="dwc:verbatimCoordinates">20°11'29"S, 43°35'05.1"W</named-content>, 1469 m elev., 19 Aug 2008, <italic>O.B.C. Ribeiro 208</italic> (holotype: VIC!; isotype: HB). [Basionym]</comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Notes">
+                    <title>Notes.</title>
+                    <p>When <italic><tp:taxon-name>Orthophytum vidaliorum</tp:taxon-name></italic> was described, <xref ref-type="bibr" rid="B4">Ribeiro and Paula (2010)</xref> discussed its morphological relationship with <italic><tp:taxon-name>Orthophytum itambense</tp:taxon-name></italic>. It was emphasized that these species share similar habitat, plant size, leaves, inflorescence and flower structure. Moreover, they state that <italic><tp:taxon-name>Orthophytum vidaliorum</tp:taxon-name></italic> is also closely related to <italic><tp:taxon-name>Orthophytum supthutii</tp:taxon-name></italic> which was recently synonymized under <italic><tp:taxon-name>Lapanthus duartei</tp:taxon-name></italic>. In the same article the authors also mentioned that <italic><tp:taxon-name>Orthophytum vidaliorum</tp:taxon-name></italic> could be included in a different and unpublished genus proposed by <xref ref-type="bibr" rid="B2">Louzada (2008)</xref> in his master’s thesis, which later was validly published under the name <italic><tp:taxon-name>Lapanthus</tp:taxon-name></italic> by <xref ref-type="bibr" rid="B3">Louzada and Versieux (2010)</xref>.</p>
+                    <p>Besides, some morphological characters such as the rosette shape, the morphology and size of the leaves and the size of the flowers support the decision to include <italic><tp:taxon-name>Orthophytum vidaliorum</tp:taxon-name></italic> under <italic><tp:taxon-name>Lapanthus</tp:taxon-name></italic>.</p>
+                    <table-wrap id="T2" position="float" orientation="portrait">
+								<label>Table 2.</label>
+                <caption><p>Comparison of diagnostic characters in <italic><tp:taxon-name>Lapanthus</tp:taxon-name></italic> species.</p></caption>
+                <table>
+                            <tbody>
+                                <tr>
+                                    <th rowspan="1" colspan="1">Character</th>
+                                    <th rowspan="1" colspan="1"><italic><tp:taxon-name>Lapanthus vidaliorum</tp:taxon-name></italic></th>
+                                    <th rowspan="1" colspan="1"><italic><tp:taxon-name>Lapanthus duartei</tp:taxon-name></italic></th>
+                                    <th rowspan="1" colspan="1"><italic><tp:taxon-name>Lapanthus itambensis</tp:taxon-name></italic></th>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Leaf-blade indument</td>
+                                    <td rowspan="1" colspan="1">glabrous</td>
+                                    <td rowspan="1" colspan="1">lepidote</td>
+                                    <td rowspan="1" colspan="1">lepidote</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Inflorescence branching</td>
+                                    <td rowspan="1" colspan="1">simple</td>
+                                    <td rowspan="1" colspan="1">compound</td>
+                                    <td rowspan="1" colspan="1">pseudo-simple</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Petal length</td>
+                                    <td rowspan="1" colspan="1">2.5–2.6 mm</td>
+                                    <td rowspan="1" colspan="1">2.8–3.8 mm</td>
+                                    <td rowspan="1" colspan="1">4.1 mm</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Petal color</td>
+                                    <td rowspan="1" colspan="1">greenish-yellow</td>
+                                    <td rowspan="1" colspan="1">orange</td>
+                                    <td rowspan="1" colspan="1">white</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">Petal appendages</td>
+                                    <td rowspan="1" colspan="1">obdeltoid</td>
+                                    <td rowspan="1" colspan="1">lanceolate</td>
+                                    <td rowspan="1" colspan="1">lanceolate</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                    <p><!--PageBreak--><bold>Identification key for the species of <italic><tp:taxon-name>Lapanthus</tp:taxon-name></italic></bold></p>
+                    <table-wrap content-type="key" position="anchor" orientation="portrait">
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td rowspan="1" colspan="1">1a</td>
+                                    <td rowspan="1" colspan="1">Inflorescence compound, sepals high connate </td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lapanthus duartei</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">1b</td>
+                                    <td rowspan="1" colspan="1">Inflorescence simple or pseudo-simple, sepals free or nearly so </td>
+                                    <td rowspan="1" colspan="1">2<!--PageBreak--></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">2a</td>
+                                    <td rowspan="1" colspan="1">Inflorescence simple, petals greenish-yellow, petal appendages obdeltoid</td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lapanthus vidaliorum</tp:taxon-name></italic></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1">2b</td>
+                                    <td rowspan="1" colspan="1">Inflorescence pseudo-simple, petals white, petal appendages lanceolate </td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lapanthus itambensis</tp:taxon-name></italic></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figure 1.</label>
+                        <caption><p><bold>A–B</bold>. <italic><tp:taxon-name>Lapanthus vidaliorum</tp:taxon-name></italic>. <bold>A</bold> Habitat <bold>B</bold> Habitat in the wild <bold>C</bold> <italic><tp:taxon-name>Lapanthus duartei</tp:taxon-name></italic> in the wild <bold>D</bold> <italic><tp:taxon-name>Lapanthus itambensis</tp:taxon-name></italic> in cultivation (Photo: <bold>A–B</bold> Otávio Ribeiro).</p></caption>
+                        <graphic xlink:href="PhytoKeys-017-063-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p>Holotype of <italic><tp:taxon-name>Lapanthus vidaliorum</tp:taxon-name></italic> (Photo: Elídio Guarçoni).</p></caption>
+                        <graphic xlink:href="PhytoKeys-017-063-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p><italic><tp:taxon-name>Lapanthus vidaliorum</tp:taxon-name></italic> occurs in the southernmost part of the Espinhaço Range, in an iron–rich region called Quadrilátero Ferrífero (Iron Quadrangle) in the Brazilian state of Minas Gerais. Although it occurs in an iron–rich area, <italic><tp:taxon-name>Lapanthus vidaliorum</tp:taxon-name></italic> was found inhabiting quartizitic–sandstone rocky outcrops (<xref ref-type="bibr" rid="B4">Ribeiro and Paula 2010</xref>) The present combination extends the genus distribution approximately 120 km southward (<xref ref-type="fig" rid="F3">Fig. 3</xref>).</p>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figure 3.</label>
+                        <caption><p>Distribution map of <italic><tp:taxon-name>Lapanthus vidaliorum</tp:taxon-name></italic> (circle), <italic><tp:taxon-name>Lapanthus duartei</tp:taxon-name></italic> (triangle), and <italic><tp:taxon-name>Lapanthus itambensis</tp:taxon-name></italic> (square).</p></caption>
+                        <graphic xlink:href="PhytoKeys-017-063-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Conservation">
+                    <title>Conservation.</title>
+                    <p><italic><tp:taxon-name>Lapanthus vidaliorum</tp:taxon-name></italic> is an endangered species, known only from the type–population, which is small in number of individuals, being about 3.5 kilometers from the iron ore mine Capanema and surrounded by an <italic><tp:taxon-name>Eucalyptus</tp:taxon-name></italic> plantation. Therefore, according to <xref ref-type="bibr" rid="B1">IUCN (2001)</xref> criteria this species is considered critically endangered (criteria B2a).</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We acknowledge the support from the Brazilian agencies: Fundação de Amparo à Pesquisa (FAPESP) and Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). We thank Tarciso Filgueiras and Derek Butcher for the language editing and suggestions to improve the manuscript, Elídio Guarçoni for sending the photo of the holotype and two anonymous reviewers and Leonardo M. Versieux for their comments on the paper.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>International Union for Conservation of Nature and Natural Resources – IUCN</surname></name></person-group> (<year>2001</year>)<source> IUCN Red List Categories and Criteria, Version 3.1. <ext-link ext-link-type="uri" xlink:href="http://www.iucn.org">http://www.iucn.org</ext-link></source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Louzada</surname> <given-names>RB</given-names></name></person-group> (<year>2008</year>)<source> Taxonomia e citogenética das espécies de inflorescência sessile do gênero <italic>Orthophytum</italic> Beer (Bromeliaceae). Master Thesis, Instituto de Botânica, Brasil.</source></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Louzada</surname> <given-names>RB</given-names></name><name name-style="western"><surname>Versieux</surname> <given-names>LM</given-names></name></person-group> (<year>2010</year>)<article-title> <italic>Lapanthus</italic> (Bromeliaceae, Bromelioideae): a new genus from the southern Espinhaço Range, Brazil.</article-title> <source>Systematic Botany </source> <volume>35</volume> (<issue>3</issue>): <fpage>497</fpage>-<lpage>503</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1600/036364410792495908">10.1600/036364410792495908</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ribeiro</surname> <given-names>OBC</given-names></name><name name-style="western"><surname>Paula</surname> <given-names>CC</given-names></name></person-group> (<year>2010</year>)<article-title> A new species of <italic>Orthophytum</italic> (Bromeliaceae, Bromelioideae) from Minas Gerais, Brazil.</article-title> <source>Brittonia </source> <volume>62</volume> (<issue>2</issue>): <fpage>145</fpage>-<lpage>148</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s12228-009-9105-9">10.1007/s12228-009-9105-9</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schulte</surname> <given-names>K</given-names></name><name name-style="western"><surname>Barfuss</surname> <given-names>MHJ</given-names></name><name name-style="western"><surname>Zizka</surname> <given-names>G</given-names></name></person-group> (<year>2009</year>)<article-title> Phylogeny of Bromelioideae (Bromeliaceae) inferred from nuclear and plastid DNA loci reveals the evolution of the tank habit within the subfamily.</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>51</volume>: <fpage>327</fpage>-<lpage>339</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2009.02.003">10.1016/j.ympev.2009.02.003</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,361 @@
+﻿<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">PhytoKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">PhytoKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">PhytoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-2011</issn>
+            <issn pub-type="epub">1314-2003</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/phytokeys.18.3713</article-id>
+            <title-group>
+                <article-title>
+                    <italic>Costus loangensis</italic>, an exciting new species from Gabon, Africa
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Kamer</surname>
+                        <given-names>Hiltje Maas-van de</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Maas</surname>
+                        <given-names>Paul J. M.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Specht</surname>
+                        <given-names>Chelsea D.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Netherlands Centre for Biodiversity (section NHN) / Biosystematics Group, Wageningen University, Generaal Foulkesweg 37, 6703 BL Wageningen, The Netherlands
+            </aff>
+            <aff id="A2">
+                <label>2</label>Departments of Plant and Microbial Biology and Integrative Biology &amp; The University and Jepson Herbaria, University of California, Berkeley, CA 94720
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Chelsea D. Specht (<email xlink:type="simple">cdspecht@berkeley.edu</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: W. John Kress</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>19</day>
+                <month>11</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>18</issue>
+            <fpage>11</fpage>
+            <lpage>18</lpage>
+            <history>
+                <date date-type="received">
+                    <day>18</day>
+                    <month>7</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>13</day>
+                    <month>11</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Hiltje Maas-van de Kamer, Paul J. M. Maas, Chelsea D. Specht</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>A new species of spiral ginger (<italic><tp:taxon-name>Costus</tp:taxon-name></italic>: <tp:taxon-name>Costaceae</tp:taxon-name>) from Gabon, Africa is described. <italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic> H. Maas &amp; Maas is found in the coastal region on white sand soils under a tropical rain forest canopy. It is morphologically distinct from all other African species of <italic><tp:taxon-name>Costus</tp:taxon-name></italic> but shows some similarities in floral form with the savanna-inhabiting <italic><tp:taxon-name>Costus spectabilis</tp:taxon-name></italic> (Fenzl) K. Schum. and similarities in vegetative form with <italic><tp:taxon-name>Costus ligularis</tp:taxon-name></italic> Baker. Only one population of the new species is documented. Photographs of the new species are included as is a preliminary phylogeny indicating its position within the African <tp:taxon-name>Costaceae</tp:taxon-name>.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Africa</kwd>
+                <kwd>Gabon</kwd>
+                <kwd>Costaceae</kwd>
+                <kwd><italic>Costus</italic></kwd>
+                <kwd>Zingiberales</kwd>
+                <kwd>spiral ginger</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The plant family <tp:taxon-name>Costaceae</tp:taxon-name> is pantropical in distribution with its largest genus, <italic><tp:taxon-name>Costus</tp:taxon-name></italic> L., restricted in distribution to African and New World Tropics. Based on phylogenetic studies, the ancestral distribution of <italic><tp:taxon-name>Costus</tp:taxon-name></italic> is the African tropics and its current distribution is reflective of a long distance dispersal event from Africa to the neotropics (<xref ref-type="bibr" rid="B4">Specht et al. 2001</xref>). Estimates based on fossil calibrations indicate <!--PageBreak-->that the Neotropical lineage diverged from the African <italic><tp:taxon-name>Costus</tp:taxon-name></italic> clade approximately 33 million years ago (<xref ref-type="bibr" rid="B6">Specht 2006b</xref>), while subsequent diversification of the neotropical <italic><tp:taxon-name>Costus</tp:taxon-name></italic> lineage based on rates of molecular evolution is estimated to have occurred within the past 4 million years (<xref ref-type="bibr" rid="B1">Kay et al. 2005</xref>), indicating a recent rapid radiation of the neotropical <italic><tp:taxon-name>Costus</tp:taxon-name></italic> lineage following colonization. There are currently ~80 species in the new world clade as compared with only ~25 species in the combined African lineages.</p>
+            <p>In all <italic><tp:taxon-name>Costus</tp:taxon-name></italic> species, the staminodial labellum, formed by the fusion of five petaloid organs in the stamen whorl, is predominantly responsible for the floral display. The ancestral <italic><tp:taxon-name>Costus</tp:taxon-name></italic> flower had a broad, open labellum; solid white or yellow in color; with no strong markings indicative of a specific pollination syndrome (<xref ref-type="bibr" rid="B4">Specht et al. 2001</xref>). Phylogenetic studies using molecular and morphological data (<xref ref-type="bibr" rid="B5">Specht 2006a</xref>) indicate a single evolutionary origin of the bee-pollinated floral form from the ancestral open floral morphology, resulting in a relatively diverse African clade (~7 species) all with a floral morphology indicative of bee pollination (e.g. <italic><tp:taxon-name>Costus afer</tp:taxon-name></italic> Ker Gawl., <italic><tp:taxon-name>Costus dubius</tp:taxon-name></italic> (Afzel.) K. Schum). The Neotropical <italic><tp:taxon-name>Costus</tp:taxon-name></italic> lineage is sister to this bee-pollinated African clade, and the earliest diverging species of the neotropical clade retain the ancestral bee-pollination syndrome (<xref ref-type="bibr" rid="B6">Specht 2006b</xref>; <xref ref-type="bibr" rid="B1">Kay et al. 2005</xref>). Within the neotropical <italic><tp:taxon-name>Costus</tp:taxon-name></italic>, bird pollination has evolved as many as 7 times, each associated with a radiation of a bird-pollinated lineage (<xref ref-type="bibr" rid="B1">Kay et al. 2005</xref>, <xref ref-type="bibr" rid="B5">Specht 2006a</xref>). It is hypothesized that this evolutionary toggle between bee and bird pollination and adaptation to hummingbird pollination (<xref ref-type="bibr" rid="B1">Kay et al. 2005</xref>) may have led to the rapid radiation of this lineage in the Neotropics subsequent to its divergence from the African ancestral populations (<xref ref-type="bibr" rid="B6">Specht 2006b</xref>). There are no known bird-pollinated species in Africa, with the possible exception of <italic><tp:taxon-name>Costus giganteus</tp:taxon-name></italic> Welw. ex Ridl. from São Tomé and Principe which bears red bracts and tubular yellow flowers that resemble those of Neotropical bird-pollinated species.</p>
+            <p>As part of a larger effort to monograph all African species of <italic><tp:taxon-name>Costus</tp:taxon-name></italic>, the authors recovered a photograph of a <italic><tp:taxon-name>Costus</tp:taxon-name></italic> flower published in a guide to the Loango National Park (<xref ref-type="bibr" rid="B7">Vande weghe 2007</xref>). This photo represented a plant that was not present in studied herbarium or living material and had not yet been described. An expedition to Gabon with a targeted trip to the Loango National Park (= Parc Nacional de Loango) and the surrounding region revealed a single population of the unknown species, here described.</p>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Costus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">loangensis</tp:taxon-name-part>
+                    <object-id xlink:type="simple">urn:lsid:ipni.org:names:77123154-1</object-id>
+								<object-id xlink:type="simple">http://species-id.net/wiki/Costus_loangensis</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>H. Maas &amp; Maas</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">sp. nov.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p><italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic> (<xref ref-type="fig" rid="F1">Fig. 1</xref>) is a short-stemmed (about 0.5 m tall) plant with few (6–7) leaves and with completely yellow flowers. Stems and leaves are covered with<!--PageBreak--> a dense indument of erect to half-appressed hairs. <italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic> differs from <italic><tp:taxon-name>Costus spectabilis</tp:taxon-name></italic> (Fenzl) K.Schum., another short-stemmed yellow-flowered species, by having a well developed aerial stem. <italic><tp:taxon-name>Costus spectabilis</tp:taxon-name></italic> inhabits savannas and has only 4 <!--PageBreak-->leaves that remain strongly pressed to the ground. <italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic> differs from <italic><tp:taxon-name>Costus ligularis</tp:taxon-name></italic> Baker, also a short-stemmed and indumented plant, by the colour of its flowers (<italic><tp:taxon-name>Costus ligularis</tp:taxon-name></italic> has a pale pink flower) and the length of the calyx (5-7mm in <italic><tp:taxon-name>Costus ligularis</tp:taxon-name></italic> v. 11–12mm in <italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic>) (<xref ref-type="table" rid="T1">Table 1</xref>).</p>
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figure 1.</label>
+                        <caption><p>Photographs of <italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic> from the single known population. Photo credit: J.P. Vande weghe.</p></caption>
+                        <graphic xlink:href="PhytoKeys-018-011-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <table-wrap id="T1" position="float" orientation="portrait">
+								<label>Table 1.</label>
+                <caption><p>Use of characters to differentiate <italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic> from other African species with similar morphological characters.</p></caption>
+                <table>
+                            <tbody>
+                                <tr>
+                                    <th rowspan="1" colspan="1"><bold>Species</bold></th>
+                                    <th rowspan="1" colspan="1"><bold>Flower color</bold></th>
+                                    <th rowspan="1" colspan="1"><bold>Stem height</bold></th>
+                                    <th rowspan="1" colspan="1"><bold>Bract appendage</bold></th>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">yellow</td>
+                                    <td rowspan="1" colspan="1">0.5m</td>
+                                    <td rowspan="1" colspan="1">No</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus spectabilis</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">yellow</td>
+                                    <td rowspan="1" colspan="1">0m</td>
+                                    <td rowspan="1" colspan="1">No</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus ligularis</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">pale pink to white</td>
+                                    <td rowspan="1" colspan="1">0.5m</td>
+                                    <td rowspan="1" colspan="1">No</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus gabonensis</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">yellow</td>
+                                    <td rowspan="1" colspan="1">1.5m</td>
+                                    <td rowspan="1" colspan="1">Yes, red/brown reflexed</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </table-wrap>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type">
+                    <title>Type.</title>
+                    <p><italic>P.J.M. Maas, F.J. Breteler, C.D. Specht, H. Maas-van de Kamer, R. Niangadouma 10184</italic> (holotype WAG; isotypes K, LBV, MO, UC), Gabon, prov. Ogooué-Maritime: Parc Nacional de Loango, between Lodge and Staff building, <named-content content-type="dwc:verbatimCoordinates">1°54'43.3"S, 9°19'33.6"E</named-content>, wet forest on white sand, along forest trail, at about sea level, 9 November 2011.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p>Terrestrial herb, 0.5–0.6 m tall, stems dark brownish red. <italic>Leaves</italic>: dark olive-green, several (6–7) concentrated at the apex of the stem; sheaths dark red, 0.6–0.8 cm diam.; ligule green, 2-lobed, 15–18 mm long, membranous; petiole 5–6 mm long; sheaths sparsely to rather densely covered with erect to half-appressed hairs ca. 2 mm long, ligule and petiole densely to rather densely so; lamina narrowly elliptic to elliptic, 14–16 by 5–6 cm, densely to rather densely covered with erect to half-appressed hairs 1.5–2 mm long on both sides, zone along midrib sometimes reddish, base attenuate, apex acute. <italic>Inflorescence</italic>: 3–5-flowered, ovoid, 2 by 1–1.5 cm, terminating the leafy stem; outer side of bracts, bracteoles and calyx densely covered with appressed to half-appressed hairs ca. 0.2 mm long, ovary sparsely so. <italic>Flower</italic>: 1 per bract; bracts brown to reddish brown, chartaceous, narrowly ovate-triangular to ovate-triangular, 1.7–2 by 0.5–1 cm, callus 2.5–3 mm long; appendages absent; bracteole reddish, boat-shaped, 15–18 mm long, callus 1.5–2 mm long; calyx reddish to greenish, 11–12 mm long, lobes deltate, ca. 2 mm long, callus ca. 1 mm long; corolla yellow, 50–55 mm long, tube 20–25 mm long, lobes narrowly elliptic, 30–35 mm long, outer side rather densely covered with half-appressed hairs ca. 1 mm long particularly near the apex, together forming a hood over the throat opposite the labellum, apex with a callus-like thickening; labellum yellow, horizontally flattened with funnel-shaped base, broadly obovate when spread out, 30–40 by 40–50 mm, margin fimbriate (fimbriae 2–3 mm long); stamen yellow, 25–30 by 7–10 mm, apex reflexed, anther 5–7 mm long; ovary narrowly obovoid, ca. 6 mm long, stigma bilamellate, dorsal appendage 2-lobed. <italic>Fruit</italic> and <italic>seeds</italic> not seen.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>Gabon (<xref ref-type="fig" rid="F2">Fig. 2</xref>). Only known from the type location.</p>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p>Map of locality for <italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic>. The red dot represents the type locality.</p></caption>
+                        <graphic xlink:href="PhytoKeys-018-011-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Habitat and ecology">
+                    <title>Habitat and ecology.</title>
+                    <p>In wet forest, on white sand soil under rain forest canopy (<xref ref-type="fig" rid="F3">Fig. 3</xref>). Elevation just above sea level. Flowering: November; fruiting: unknown.<!--PageBreak--><!--PageBreak--></p>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figure 3.</label>
+                        <caption><p><italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic> habit and habitat, as being studied by co-author P.J.M. Maas. Photo credit: H. Maas-van de Kamer.</p></caption>
+                        <graphic xlink:href="PhytoKeys-018-011-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Phylogenetic relationship">
+                    <title>Phylogenetic relationship.</title>
+                    <p>Based on a combined 4 molecular marker (CAM, ITS, ETS, rpb2) phylogenetic analysis with taxon sampling that included African species in the genus <italic><tp:taxon-name>Costus</tp:taxon-name></italic>, <italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic> H. Maas &amp; Maas is found to be well supported as sister to a clade of <italic><tp:taxon-name>Costus ligularis</tp:taxon-name></italic> Baker specimens (<xref ref-type="fig" rid="F4">Fig. 4</xref>). <italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic> fits within the general distribution range of <italic><tp:taxon-name>Costus ligularis</tp:taxon-name></italic>, however no populations of <italic><tp:taxon-name>Costus ligularis</tp:taxon-name></italic> were found in sympatry. <italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic> is restricted in elevation to just above sea level, while <italic><tp:taxon-name>Costus ligularis</tp:taxon-name></italic> is commonly found 0–600m above sea level throughout low-elevation rain forests in Cameroon and Gabon.</p>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figure 4.</label>
+                        <caption><p>Phylogeny of African <italic><tp:taxon-name>Costus</tp:taxon-name></italic> species (<xref ref-type="table" rid="T2">Table 2</xref>) including newly described <italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic>. The phylogeny was constructed in PhyML (<xref ref-type="bibr" rid="B2">Guindon and Gascuel 2003</xref>) with aligned sequence data for two low copy nuclear markers [calmodulin (cam) intron (<xref ref-type="bibr" rid="B3">Johansen 2005</xref>) and rpb2 (<xref ref-type="bibr" rid="B5">Specht 2006a</xref>)] and nrDNA markers ITS and ETS. All nodes indicated have &gt;50% bootstrap support.</p></caption>
+                        <graphic xlink:href="PhytoKeys-018-011-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <table-wrap id="T2" position="float" orientation="portrait">
+								<label>Table 2.</label>
+                <caption><p>List of collections included in phylogeny to place <italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic> sp. nov.</p></caption>
+                <table>
+                            <tbody>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus afer</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">L87-0185</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus afer</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">M10205</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus albiflos</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">M10411</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus dubius</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">M10206</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus dubius</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">GH89-0918</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus aureus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">M9302 (vouchered from Burger’s Bush)</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus lucanusianus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">M10000</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus lucanusianus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">L87-0286</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus ligularis</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">M10329</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus ligularis</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">M10267</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus ligularis</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">BB 1998-0923003</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus lateriflorus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">M9995</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus lateriflorus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">M10331</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus lateriflorus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">GH98-224</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus spectabilis</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">GH96-284</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus gabonensis</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">M10291</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus gabonensis</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">CS02-339</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus tappenbeckianus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">M10226</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus tappenbeckianus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">GH94-628</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus talbotii</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">BB 2003-0109009</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus phyllocephalus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">M10389</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus phyllocephalus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">L87-0057</td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1"><italic><tp:taxon-name>Costus phyllocephalus</tp:taxon-name></italic></td>
+                                    <td rowspan="1" colspan="1">BB 2001-0402004</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table-wrap-foot>
+                            <fn>
+                                <p>L=Lyon Arboretum</p>
+                                <p>M=Maas collection</p>
+                                <p>CS=C. Specht collection</p>
+                              	<p>GH=Greenhouse at Smithsonian NMNH</p>
+                                <p>BB=Burger’s Bush</p>
+                            </fn>
+                        </table-wrap-foot>
+                    </table-wrap>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Vernacular names">
+                    <title>Vernacular names.</title>
+                    <p>Not recorded. This plant seems to go unnoticed by the local population and has no known uses.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology.</title>
+                    <p><italic><tp:taxon-name>Costus loangensis</tp:taxon-name></italic> is named after the place where it was photographed and now has been collected and documented for the first time: near the Loango Lodge, in “Parc Nacional de Loango” in Gabon.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>The authors thank Mr. Jean Pierre Vande weghe for his invaluable help in locating the plants, for sending us photographs, and for the permission to use his photographs in this publication. We are highly indebted to the director of Africa’s Eden, Mr. R. Swanborn, for making it possible for the authors to stay in “Parc Nacional de Loango” and to search there for this plant; to Dr. Frans Breteler for helping to organize the field expedition, assistance in collection and identification, and superb logistic and botanical support; to Raul Niangadouma (Herbarium LBV in Libreville, Gabon) for field assistance, guidance and for sharing his extensive knowledge of Gabon’s native flora; and to Dr. Bas Verhage, WWF Gamba Programme Manager in Gabon, for expert advice prior to the trip and logistic support during our fieldwork in and around Loango and the Mandji area of Gabon. HMK and PJMM thank the “Hugo de Vries-fonds” and the “Society for the advancement of research in the tropics” (Treub-Maatschappij) for financial support. CDS acknowledges the National Geographic Society Committee for<!--PageBreak--> Research and Exploration (grant #8994-11) for financial support for travel to Gabon and S. Salzman, T. Renner, S. Shen, and K. Yu for producing and analyzing the phylogenetic data presented in this paper.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kay</surname> <given-names>KM</given-names></name><name name-style="western"><surname>Reeves</surname> <given-names>P</given-names></name><name name-style="western"><surname>Olmstead</surname> <given-names>R</given-names></name><name name-style="western"><surname>Schemske</surname> <given-names>DW</given-names></name></person-group> (<year>2005</year>)<article-title> Rapid speciation and the evolution of hummingbird pollination in neotropical <italic>Costus</italic> subgenus <italic>Costus</italic> (Costaceae): evidence from nrDNA ITS and ETS sequences.</article-title> <source>American Journal of Botany </source> <volume>92</volume>: <fpage>1899</fpage>-<lpage>1910</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3732/ajb.92.11.1899">10.3732/ajb.92.11.1899</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Guindon</surname> <given-names>S</given-names></name><name name-style="western"><surname>Gascuel</surname> <given-names>R</given-names></name></person-group> (<year>2003</year>)<article-title> PhyML: A simple, fast and accurate algorithm to estimate large phylogenies by maximum likelihood.</article-title> <source>Systematic Biology </source> <volume>52</volume> (<issue>5</issue>): <fpage>696</fpage>-<lpage>704</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/10635150390235520">10.1080/10635150390235520</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johansen</surname> <given-names>LB</given-names></name></person-group> (<year>2005</year>)<article-title> Phylogeny of <italic>Orchidantha</italic> (Lowiaceae) and the Zingiberales based on six DNA regions.</article-title> <source>Systematic Botany </source> <volume>30</volume> (<issue>1</issue>): <fpage>106</fpage>-<lpage>117</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1600/0363644053661931">10.1600/0363644053661931</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Specht</surname> <given-names>CD</given-names></name><name name-style="western"><surname>Kress</surname> <given-names>WJ</given-names></name><name name-style="western"><surname>Stevenson</surname> <given-names>DW</given-names></name><name name-style="western"><surname>DeSalle</surname> <given-names>R</given-names></name></person-group> (<year>2001</year>)<article-title> A molecular phylogeny of Costaceae (Zingiberales).</article-title> <source>” Molecular Phylogenetics and Evolution </source> <volume>21</volume> (<issue>3</issue>): <fpage>333</fpage>-<lpage>345</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1006/mpev.2001.1029">10.1006/mpev.2001.1029</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Specht</surname> <given-names>CD</given-names></name></person-group> (<year>2006a</year>)<article-title> Systematics and Evolution of the tropical monocot family Costaceae (Zingiberales): a multiple dataset approach.</article-title> <source>Systematic Botany </source> <volume>31</volume> (<issue>1</issue>): <fpage>88</fpage>-<lpage>108</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1600/036364406775971840">10.1600/036364406775971840</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Specht</surname> <given-names>CD</given-names></name></person-group> (<year>2006b</year>)<source> Gondwanan Vicariance or Dispersal in the Tropics? The biogeographic history of the tropical monocot family Costaceae (Zingiberales). In Columbus JT, Friar EA, Hamilton CW, Porter JM, Prince LM, Simpson MG, (Eds) Monocots: comparative biology and evolution. Rancho Santa Ana Botanic Garden, Claremont, CA USA.</source></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Vande weghe</surname> <given-names>JP</given-names></name></person-group> (<year>2007</year>)<source> Loango, Mayumba and the Lower Ogooué. Wildlife Conservation Society (WCS), BP 7847 Libreville, Gabon. 1–278.</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

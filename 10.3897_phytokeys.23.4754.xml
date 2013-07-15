@@ -1,0 +1,687 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd">
+<article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">PhytoKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">PhytoKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">PhytoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-2011</issn>
+            <issn pub-type="epub">1314-2003</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/phytokeys.23.4754</article-id>
+            <title-group>
+                <article-title>A reassessment of
+                    <italic>Anthurium</italic> species with palmately divided leaves, and a reinterpretation of
+                    <italic>Anthurium</italic> section
+                    <italic>Dactylophyllium</italic> (Araceae)</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Croat</surname>
+                        <given-names>Thomas B.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Carlsen</surname>
+                        <given-names>Mónica M.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Missouri Botanical Garden, P.O. Box 299, St. Louis, MO 63166, USA
+            </aff>
+            <aff id="A2">
+                <label>2</label>Department of Biology, University of Missouri–St. Louis, One University Boulevard, St. Louis, MO 63121, USA
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Mónica M. Carlsen (<email xlink:type="simple">monica.carlsen@mobot.org</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: W. John Kress</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>10</day>
+                <month>6</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>23</issue>
+            <fpage>41</fpage>
+            <lpage>54</lpage>
+            <history>
+                <date date-type="received">
+                    <day>23</day>
+                    <month>1</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>12</day>
+                    <month>5</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Thomas B. Croat, Mónica M. Carlsen</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>A reappraisal is made of the <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> Schott species with palmately divided leaves with 3 or more segments free to the base (i.e. palmatisect leaves), previously recognized as section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> Schott (Engler), as well as those species with 5 or more segments united at the base (i.e. palmatifid leaves), formerly placed in section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> Schott (Engler). New molecular data indicates that several species (<italic><tp:taxon-name>Anthurium pedatum</tp:taxon-name></italic> (Kunth) Schott, <italic><tp:taxon-name>Anthurium pedatoradiatum</tp:taxon-name></italic> Schott, and possibly, <italic><tp:taxon-name>Anthurium podophyllum</tp:taxon-name></italic> (Schltdl. &amp; Cham.) Kunth) should be excluded from section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic>, and other species previously placed in that section cannot be separated from section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic>. Thus, <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> is here synonymized within section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> and type species are designated for both groups. This paper also provides an updated description of section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> as here emended, listing the 24 accepted taxa now included (20 species and 4 varieties or subspecies), along with their geographic distributions.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd><italic>Anthurium</italic></kwd>
+                <kwd>molecular phylogeny</kwd>
+                <kwd>palmately divided leaves</kwd>
+                <kwd>palmatisect leaves</kwd>
+                <kwd>palmatifid leaves</kwd>
+                <kwd>section <italic>Schizoplacium</italic></kwd>
+                <kwd>sectional classification</kwd>
+                <!--PageBreak-->
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p><italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> Schott species with palmately divided leaves (as included in <xref ref-type="bibr" rid="B8">Madison 1978</xref>) represent a very distinct morphological group within the genus (<xref ref-type="fig" rid="F1">Fig. 1</xref>). In these species, leaf segments (i.e. leaflets) are free to the base, in palmatisect leaves, or leaf segments (i.e. lobes) are united at the base, in palmatifid leaves (<xref ref-type="fig" rid="F2">Fig. 2</xref>). The current sectional classification of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B4">Croat and Sheffer 1983</xref>) separates these species into two groups, section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> (Schott) Engler (<xref ref-type="bibr" rid="B5">Engler 1879</xref>), comprising species with three or more segments (leaflets) free to the base (<xref ref-type="fig" rid="F2">Fig. 2A–B</xref>), and section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> (Schott) Engler (<xref ref-type="bibr" rid="B5">Engler 1879</xref>), including species with five or more segments (lobes) united at the base (<xref ref-type="fig" rid="F2">Fig. 2C</xref>). A recent molecular phylogeny (<xref ref-type="bibr" rid="B1">Carlsen 2011</xref>, <xref ref-type="bibr" rid="B3">Carlsen and Croat in press</xref>) has shown that most of the species of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> with palmately divided leaves belong to a single highly supported clade (<xref ref-type="fig" rid="F3">Fig. 3</xref>, Clade 3), therefore suggesting that previous divisions of the group are unnecessary. Indeed, the newly circumscribed Clade 3 merits sectional rank. Moreover, although all members of Clade 3 share palmately divided leaves, this leaf form has evolved independently at least two more times within <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic>, in Clades 14 and 16 (<xref ref-type="fig" rid="F3">Fig. 3</xref>). The goal of this study is to reevaluate the limits of sections <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> and <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> in the light of the new molecular evidence and provide an updated description of this redefined group of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species with palmately divided leaves (<xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Examples of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species with palmately divided leaves here included in section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> (Schott) Engler emend. Croat &amp; Carlsen. <bold>A</bold> Palmatisect leaf with seven leaflets of <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> (Aubl.) G.Don var. <italic>pentaphyllum</italic> (<italic>M. Leppard 1395</italic>) <bold>B</bold> Palmatifid leaf of <italic><tp:taxon-name>Anthurium longissimum</tp:taxon-name></italic> Pittier ssp. <italic>longissimum</italic> (<italic>M. Carlsen 2126</italic>) <bold>C</bold> Palmatisect leaves with three leaflets of <italic><tp:taxon-name>Anthurium trisectum</tp:taxon-name></italic> Sodiro (<italic>T.B. Croat 48977</italic>) <bold>D</bold> Palmatisect leaves with more than 9 leaflets of <italic><tp:taxon-name>Anthurium polydactylum</tp:taxon-name></italic> Madison (<italic>T.C. Plowman &amp; H. Kennedy 5769</italic>).</p></caption>
+                <graphic xlink:href="PhytoKeys-023-041-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F2" position="float" orientation="portrait">
+                <label>Figure 2.</label>
+                <caption><p>Detail of leaf bases of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species with palmately divided leaves. <bold>A</bold> Palmatisect leaf with segments (leaflets) free to the base with long petiolules, <italic><tp:taxon-name>Anthurium kunthii</tp:taxon-name></italic> Poepp. var. <italic>kunthii</italic> (<italic>J.P. Folsom 3228</italic>) <bold>B</bold> Palmatisect leaf with segments (leaflets) free to the base with short petiolules, <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> (Aubl.) G.Don var. <italic>pentaphyllum</italic> (<italic>R.M. Harley 18334</italic>) <bold>C</bold> Palmatifid leaf with segments (lobes) united at the base, <italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic> (L.) Schott (Kew living collection 1980-554).</p></caption>
+                <graphic xlink:href="PhytoKeys-023-041-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <fig id="F3" position="float" orientation="portrait">
+                <label>Figure 3.</label>
+                <caption><p>A schematic molecular phylogeny of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> showing major clades recovered by <xref ref-type="bibr" rid="B3">Carlsen and Croat (in press)</xref>. This phylogeny was based on combined chloroplast (<italic>trnG</italic> intron, <italic>trnH–psbA</italic> and <italic>trnC–ycf6</italic> intergenic spacers) and nuclear (first intron of <italic>CHS</italic> and partial flanking coding regions) DNA sequences. Clade numbering follow these authors. Species in bold are recognized here as members of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> (Schott) Engler, emend. Croat &amp; Carlsen. Placement of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species now excluded from grex <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> Schott is also shown.</p></caption>
+                <graphic xlink:href="PhytoKeys-023-041-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+        <sec sec-type="Taxonomic history">
+            <title>Taxonomic history</title>
+            <p>In the first comprehensive revision of the genus, <xref ref-type="bibr" rid="B9">Schott (1860)</xref> classified <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species with lobed or divided leaves in three groups (<xref ref-type="table" rid="T1">Table 1</xref>): grex <italic><tp:taxon-name>Semaeophyllium</tp:taxon-name></italic>, comprising species with “hastate-trilobed” blades with segments united at the base; grex <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic>, including species with “pedately-partite” blades with five or more leaf segments united at the base (i.e. palmatifid leaves, according to our definition) (<xref ref-type="fig" rid="F2">Fig. 2C</xref>); and grex <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic>, containing species with “digitisect” leaf blades with three or more segments divided completely (i.e. free) to the base (i.e. palmatisect leaves, in our definition) (<xref ref-type="fig" rid="F2">Fig. 2A–B</xref>).</p>
+            <p><xref ref-type="bibr" rid="B2">Carlsen and Croat (2007)</xref> recently revised the 23 species included in <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> section <italic><tp:taxon-name>Semaeophyllium</tp:taxon-name></italic> (Schott) Engler (<xref ref-type="bibr" rid="B5">Engler 1879</xref>). The section comprises species with trilobed leaf blades, where leaf lobes are always united at the base, and the lobes can be directed forward (i.e. falcate) or to the sides (i.e. spreading) but never toward the back. On the basis of molecular evidence (<xref ref-type="bibr" rid="B1">Carlsen 2011</xref>, <xref ref-type="bibr" rid="B3">Carlsen and Croat in press</xref>), section <italic><tp:taxon-name>Semaeophyllium</tp:taxon-name></italic> appears not to be monophyletic. However, species with trilobed leaves are more closely related to other <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species with cordate leaves than to the species with palmately divided leaf morphology clustered in Clade 3 (<xref ref-type="bibr" rid="B1">Carlsen 2011</xref>, <xref ref-type="bibr" rid="B3">Carlsen and Croat in press</xref>). Therefore, this paper will only deal with the <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species with palmately divided leaves (<xref ref-type="fig" rid="F1">Fig. 1</xref>), those included in sections <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> and <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic>.</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+                <label>Table 1.</label>
+                <caption><p><italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species with palmately divided leaves formerly included in <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> and <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic>, a comparison of previous circumscriptions. This is not an exhaustive list of all species names that have been previously included in these groups, it only contains taxa that were accepted at the time of publication of each work. Names in bold denote species included in the newly redefined section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> (Schott) Engler emend. Croat &amp; Carlsen, as proposed here. Species marked with (*) are now formally excluded from this emended section. All other species names are either synonyms or species dubia, fide <xref ref-type="bibr" rid="B8">Madison (1978)</xref>.&lt;br/&gt;</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>Species name</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Year published</bold></th>
+                            <th rowspan="1" colspan="1"><bold><xref ref-type="bibr" rid="B9"><bold>Schott (1860)</bold></xref></bold></th>
+                            <th rowspan="1" colspan="1"><bold><xref ref-type="bibr" rid="B6"><bold>Engler (1905)</bold></xref></bold></th>
+                            <th rowspan="1" colspan="1"><bold><xref ref-type="bibr" rid="B8"><bold>Madison (1978)</bold></xref></bold></th>
+                            <th rowspan="1" colspan="1"><bold><xref ref-type="bibr" rid="B4">Croat &amp; Sheffer (1983)</xref></bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium aemulum</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1859</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>bombacifolium</italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium andersonii</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1857</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">(*) <italic><tp:taxon-name>Anthurium angustisectum</tp:taxon-name></italic> Engl.</td>
+                            <td rowspan="1" colspan="1">1898</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Group 6</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium araliaefolium</tp:taxon-name></italic> Regel</td>
+                            <td rowspan="1" colspan="1">1869</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Euschizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">species dubium, probably a hybrid</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium arisaemoides</tp:taxon-name></italic> Madison</bold></td>
+                            <td rowspan="1" colspan="1">1978</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium aubletii</tp:taxon-name></italic> Kunth</td>
+                            <td rowspan="1" colspan="1">1841</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>pentaphyllum</italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium bombacifolium</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1858</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium aemulum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>bombacifolium</italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium brevipedunculatum</tp:taxon-name></italic> Madison</bold></td>
+                            <td rowspan="1" colspan="1">1978</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium buchtienii</tp:taxon-name></italic> K. Krause</bold></td>
+                            <td rowspan="1" colspan="1">1910</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic> Poepp.</bold></td>
+                            <td rowspan="1" colspan="1">1845</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic> var. <italic>subpedatipartitum</italic> Engl.</td>
+                            <td rowspan="1" colspan="1">1905</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">not mentioned</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium croatii</tp:taxon-name></italic> Madison</bold></td>
+                            <td rowspan="1" colspan="1">1978</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium digitatum</tp:taxon-name></italic> (Jacq) Schott</bold></td>
+                            <td rowspan="1" colspan="1">1829</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>digitatum</italic>&lt;br/&gt; Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">not mentioned</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium elegans</tp:taxon-name></italic> Engl.</td>
+                            <td rowspan="1" colspan="1">1881</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Euschizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium eminens</tp:taxon-name></italic> Schott</bold></td>
+                            <td rowspan="1" colspan="1">1855</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium expansum</tp:taxon-name></italic> Gleason</bold></td>
+                            <td rowspan="1" colspan="1">1929</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Group 6</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium fissum</tp:taxon-name></italic> K. Koch</td>
+                            <td rowspan="1" colspan="1">1864</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium ghiesbrechtii</tp:taxon-name></italic> Linden ex Schott</td>
+                            <td rowspan="1" colspan="1">1860</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium podophyllum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">not mentioned</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium grossum</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1859</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>grossum</italic></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>pentaphyllum</italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium helleborifolium</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1862</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Euschizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pedatoradiatum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium hoffmannseggii</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1857</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium kunthii</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium holtonianum</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1857</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium holtonianum</tp:taxon-name></italic> var. <italic>cohaerens</italic> Engl.</td>
+                            <td rowspan="1" colspan="1">1905</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">not mentioned</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium kalbreyeri</tp:taxon-name></italic> Mast.</td>
+                            <td rowspan="1" colspan="1">1881</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium karwinskii</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1859</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium aemulum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>bombacifolium</italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium kunthii</tp:taxon-name></italic> Poepp.</bold></td>
+                            <td rowspan="1" colspan="1">1845</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium longissimum</tp:taxon-name></italic> Pittier</bold></td>
+                            <td rowspan="1" colspan="1">1947</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Group 6</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium martini</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1857</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium sinuatum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium ottonianum</tp:taxon-name></italic> Kunth</td>
+                            <td rowspan="1" colspan="1">1841</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium variabile</tp:taxon-name></italic> var. <italic>ottonianum</italic></td>
+                            <td rowspan="1" colspan="1">not mentioned</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium pachirifolium</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1855</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>pentaphyllum</italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium pachirifolium</tp:taxon-name></italic> var. <italic>angustifolium</italic> Engl.</td>
+                            <td rowspan="1" colspan="1">1881</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>pentaphyllum</italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic> (L.) Schott</bold></td>
+                            <td rowspan="1" colspan="1">1829</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">Group 6</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium panduratum</tp:taxon-name></italic> Mart. ex Schott</td>
+                            <td rowspan="1" colspan="1">1855</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium panduratum</tp:taxon-name></italic> var. <italic>burchellianum</italic> Engl.</td>
+                            <td rowspan="1" colspan="1">1905</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">(*) <italic><tp:taxon-name>Anthurium pedatoradiatum</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1859</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Euschizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">Group 4</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">(*) <italic><tp:taxon-name>Anthurium pedatum</tp:taxon-name></italic> (Kunth) Schott</td>
+                            <td rowspan="1" colspan="1">1829</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Euschizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">Group 5</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> (Aubl.) G. Don</bold></td>
+                            <td rowspan="1" colspan="1">1839</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>bombacifolium</italic> (Schott) Madison</bold></td>
+                            <td rowspan="1" colspan="1">1978</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">(*) <italic><tp:taxon-name>Anthurium podophyllum</tp:taxon-name></italic> (Schltdl. &amp; Cham.) Kunth</td>
+                            <td rowspan="1" colspan="1">1841</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Euschizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">Group 4</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium polydactylum</tp:taxon-name></italic> Madison</bold></td>
+                            <td rowspan="1" colspan="1">1978</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium polyschistum</tp:taxon-name></italic> R.E. Schultes &amp; Idrobo</bold></td>
+                            <td rowspan="1" colspan="1">1959</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium polytomum</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1859</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium podophyllum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium podophyllum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium pseudopodophyllum</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1859</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium podophyllum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium podophyllum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium repandum</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1857</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium sinuatum</tp:taxon-name></italic> Benth ex Schott</bold></td>
+                            <td rowspan="1" colspan="1">1857</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">not mentioned</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium smilaciforme</tp:taxon-name></italic> K. Koch</td>
+                            <td rowspan="1" colspan="1">1855</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium undatum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">not mentioned</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium sonderianum</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1858</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>pentaphyllum</italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium sylvestre</tp:taxon-name></italic> S. Moore</td>
+                            <td rowspan="1" colspan="1">1895</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium sinuatum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium thrinax</tp:taxon-name></italic> Madison</bold></td>
+                            <td rowspan="1" colspan="1">1978</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium triphyllum</tp:taxon-name></italic> (Willd. ex Schult.) Brongn. ex Schott</bold></td>
+                            <td rowspan="1" colspan="1">1860</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Anthurium trisectum</tp:taxon-name></italic> Sodiro</bold></td>
+                            <td rowspan="1" colspan="1">1905</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Group 7&lt;br/&gt; <tp:taxon-name>Schizoplacium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium undatum</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1832</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>pentaphyllum</italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium undatum</tp:taxon-name></italic> var. <italic>undulifolium</italic> (K. Koch ex Ender) Engl.</td>
+                            <td rowspan="1" colspan="1">1878</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">not mentioned</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium undulatum</tp:taxon-name></italic> K. Koch &amp; C. D. Bouché</td>
+                            <td rowspan="1" colspan="1">1854</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium undatum</tp:taxon-name></italic> var. <italic>undulifolium</italic></td>
+                            <td rowspan="1" colspan="1">not mentioned</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium variabile</tp:taxon-name></italic> Kunth</td>
+                            <td rowspan="1" colspan="1">1841</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Schizoplacium</tp:taxon-name> series <tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> var. <italic>pentaphyllum</italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium warscewiczii</tp:taxon-name></italic> K. Koch</td>
+                            <td rowspan="1" colspan="1">1855</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium sinuatum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">not mentioned</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthurium wendlandii</tp:taxon-name></italic> Schott</td>
+                            <td rowspan="1" colspan="1">1858</td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Dactylophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1"><tp:taxon-name>Semaeophyllium</tp:taxon-name></td>
+                            <td rowspan="1" colspan="1">synonym of&lt;br/&gt; <italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <!--PageBreak-->
+            <p><xref ref-type="bibr" rid="B9">Schott (1860)</xref> included 27 names in his grex # 28 (<xref ref-type="table" rid="T1">Table 1</xref>), <!--PageBreak--><italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic>, but according to the most updated species synonymy for the genus (<xref ref-type="bibr" rid="B7">Govaerts et al. 2012</xref>), only seven species are currently recognized: <italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic> Poepp., <italic><tp:taxon-name>Anthurium digitatum</tp:taxon-name></italic> (Jacq.) Schott, <italic><tp:taxon-name>Anthurium eminens</tp:taxon-name></italic> Schott, <italic><tp:taxon-name>Anthurium kunthii</tp:taxon-name></italic> Poepp., <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> (Aubl.) G.Don, <italic><tp:taxon-name>Anthurium sinuatum</tp:taxon-name></italic> Benth, and <italic><tp:taxon-name>Anthurium triphyllum</tp:taxon-name></italic> (Willd. ex Schult.) Brongn. ex Schott. On the other hand, <xref ref-type="bibr" rid="B9">Schott (1860)</xref> included seven names in his grex # 27 (<xref ref-type="table" rid="T1">Table 1</xref>), <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic>, but only four species are now recognized, <italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic> (L.) Schott, <italic><tp:taxon-name>Anthurium pedatoradiatum</tp:taxon-name></italic> Schott, <italic><tp:taxon-name>Anthurium pedatum</tp:taxon-name></italic> (Kunth) Schott, and <italic><tp:taxon-name>Anthurium podophyllum</tp:taxon-name></italic> (Schltdl. &amp; Cham.) Kunth. <xref ref-type="bibr" rid="B5">Engler (1879)</xref> gave formal sectional ranking to these, and others, of Schott’s greges, maintaining the species circumscriptions in both groups.</p>
+            <p>However, <xref ref-type="bibr" rid="B6">Engler (1905)</xref> made major modifications in the classification of Schott. He described his newly circumscribed section <!--PageBreak--><!--PageBreak--><italic><tp:taxon-name>Semaeophyllium</tp:taxon-name></italic> as comprising species with “hastate-trilobed or pedatisect or digitisect” leaf blades, and very long and relatively thin (i.e. myosuroideous) spadices. <xref ref-type="bibr" rid="B6">Engler (1905)</xref> included in his new version of section <italic><tp:taxon-name>Semaeophyllium</tp:taxon-name></italic>, along with more typical species with trilobed leaves, a pair of species from Schott’s grex <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> (namely <italic><tp:taxon-name>Anthurium sinuatum</tp:taxon-name></italic> and <italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic>) and also <italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic>, previously placed by Schott in grex <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic>. Alternatively, Engler’s amended section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B6">Engler 1905</xref>) included the remaining species of both Schott’s greges <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> and <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic>, along with a few more recently described species, for a total of 17 species, of which only eight are currently accepted (<xref ref-type="table" rid="T1">Table 1</xref>). <xref ref-type="bibr" rid="B6">Engler’s (1905)</xref> new delimitation of section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> included species with “pedately-partite” leaf blades, with segments either united at the base or completely separated, and thick, conic spadices. He further divided this section into two informal groups, § 1. <italic><tp:taxon-name>Euschizoplacium</tp:taxon-name></italic> Engler, with short stems and internodes, but long peduncles, and § 2. <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> (Schott) Engler, with scandent stems, elon<!--PageBreak-->gated internodes, but peduncles often short (<xref ref-type="bibr" rid="B6">Engler 1905</xref>). Engler placed most of the species from Schott’s grex <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> in the <italic><tp:taxon-name>Euschizoplacium</tp:taxon-name></italic> group and the remaining species from Schott’s grex <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> in the <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> group (<xref ref-type="table" rid="T1">Table 1</xref>).</p>
+            <p>The last taxonomic revision of <!--PageBreak--><italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species with palmately divided leaves (<xref ref-type="bibr" rid="B8">Madison 1978</xref>) recognized 27 species and three varieties divided into seven “natural” groupings based on the author’s understanding of the taxonomy, morphology and growth habit of the species (<xref ref-type="table" rid="T1">Table 1</xref>). Groups 1–3 included species with trilobed leaves with falcate lobes united at the base now placed in section <italic><tp:taxon-name>Semaeophyllium</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B2">Carlsen and Croat 2007</xref>). The remaining groups in <xref ref-type="bibr" rid="B8">Madison’s (1978)</xref> revision included typical examples of species in sections <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> and <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> (<xref ref-type="table" rid="T1">Table 1</xref>; following <xref ref-type="bibr" rid="B4">Croat and Sheffer 1983</xref>). Group 4 contained two terrestrial Mexican species with short stems, elongated peduncles and “pedately divided” (i.e. palmatifid) leaf blades (<italic><tp:taxon-name>Anthurium pedatoradiatum</tp:taxon-name></italic> and <italic><tp:taxon-name>Anthurium podophyllum</tp:taxon-name></italic>). Group 5 consisted only of the Colombian species <italic><tp:taxon-name>Anthurium pedatum</tp:taxon-name></italic>, with deeply dissected leaf blades with 11–15 lobes, and a pendent inflorescence borne on an erect peduncle. Group 6 included climbers with palmately divided leaves with the lobes united at the base (i.e. palmatifid leaves) (<xref ref-type="fig" rid="F2">Fig. 2C</xref>), and elongated spadices, which range from northern Colombia to the West Indies (<italic><tp:taxon-name>Anthurium angustisectum</tp:taxon-name></italic> Engl., <italic><tp:taxon-name>Anthurium expansum</tp:taxon-name></italic> Gleason, <italic><tp:taxon-name>Anthurium longissimum</tp:taxon-name></italic> Pittier and <italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic>). The species in Madison’s groups 4, 5 and 6 were placed in section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> by <xref ref-type="bibr" rid="B4">Croat and Sheffer (1983)</xref>. His group 7 is a predominantly Amazonian group of species with “digitisect” (i.e. palmatisect) leaf blades, where the leaf segments are free to the base and have a basal pulvinus (<xref ref-type="fig" rid="F2">Fig. 2A–B</xref>), and spadices are purple to gray. Madison called this group section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic>, apparently following <xref ref-type="bibr" rid="B6">Engler’s (1905)</xref> circumscription of that section, but it indeed includes species placed in section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> by both <xref ref-type="bibr" rid="B9">Schott (1860)</xref> and <xref ref-type="bibr" rid="B4">Croat and Sheffer (1983)</xref> (<xref ref-type="table" rid="T1">Table 1</xref>).</p>
+            <p><xref ref-type="bibr" rid="B4">Croat and Sheffer (1983)</xref> provided the previously accepted treatment of the sections of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> with palmately divided leaf blades. Following <xref ref-type="bibr" rid="B9">Schott’s (1860)</xref> original classification system, they separated the species of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> with lobed or divided leaf blades into three sections, <italic><tp:taxon-name>Semaeophyllium</tp:taxon-name></italic>, <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> and <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> (<xref ref-type="table" rid="T1">Table 1</xref>). They provided a key to the sections, descriptions, and illustrative examples of species belonging to each group.</p>
+        </sec>
+        <sec sec-type="Results and discussion">
+            <title>Results and discussion</title>
+            <p>The current molecular phylogeny of the genus <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic>, based on chloroplast (<italic>trnG</italic> intron, <italic>trnH–psbA</italic> and <italic>trnC–ycf6</italic> intergenic spacers) and nuclear (first intron of <italic>CHS</italic> and partial flanking coding regions) DNA sequences (<xref ref-type="bibr" rid="B1">Carlsen 2011</xref>, <xref ref-type="bibr" rid="B3">Carlsen and Croat in press</xref>) shows that the palmately divided leaf morphology is homoplasious within the genus, having evolved at least three times independently, in Clades 3, 14 and 16 (<xref ref-type="fig" rid="F3">Fig. 3</xref>).</p>
+            <p>Based on this molecular phylogeny (<xref ref-type="bibr" rid="B1">Carlsen 2011</xref>, <xref ref-type="bibr" rid="B3">Carlsen and Croat in press</xref>) (<xref ref-type="fig" rid="F3">Fig. 3</xref>), some of the <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species with palmately divided leaves previously recognized as section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B9">Schott 1860</xref>, <xref ref-type="bibr" rid="B5">Engler 1879</xref>, <xref ref-type="bibr" rid="B6">Engler 1905</xref>, <xref ref-type="bibr" rid="B4">Croat and Sheffer 1983</xref>), do not form a monophyletic group and are not even closely related to other palmately divided species. For example, <italic><tp:taxon-name>Anthurium pedatum</tp:taxon-name></italic>, a high elevation Colombian species with a highly divided palmatifid leaf blade, consistently clustered in the moderately supported Clade 14 (<xref ref-type="fig" rid="F3">Fig. 3</xref>), along with <italic><tp:taxon-name>Anthurium furcatum</tp:taxon-name></italic> Sodiro, with trilobed leaves, and <italic><tp:taxon-name>Anthurium tremulum</tp:taxon-name></italic> Sodiro and <italic><tp:taxon-name>Anthurium macleanii</tp:taxon-name></italic> Schott, both with cordate leaves. Clade 14 is not easily characterized morphologically, although most of its species have hooded spathes and pendent spadices (<xref ref-type="bibr" rid="B3">Carlsen and Croat in press</xref>). <xref ref-type="bibr" rid="B8">Madison (1978)</xref> had pointed out the possible segregation of <italic><tp:taxon-name>Anthurium pedatum</tp:taxon-name></italic> from all other palmately divided <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species by placing it alone in Group 5 of his revised classification. Molecular data now suggests that indeed <italic><tp:taxon-name>Anthurium pedatum</tp:taxon-name></italic> is not closely related to other palmately divided <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species and therefore does not belong to section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> as currently defined here.</p>
+            <!--PageBreak-->
+            <p><!--PageBreak--><italic><tp:taxon-name>Anthurium pedatoradiatum</tp:taxon-name></italic>, a Mexican species with palmatifid leaves and a member of section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> (fide <xref ref-type="bibr" rid="B9">Schott 1860</xref>, <xref ref-type="bibr" rid="B5">Engler 1879</xref>, <xref ref-type="bibr" rid="B6">Engler 1905</xref>, <xref ref-type="bibr" rid="B4">Croat and Sheffer 1983</xref>), should also be removed from this group. Results of molecular analyses (<xref ref-type="bibr" rid="B1">Carlsen 2011</xref>, <xref ref-type="bibr" rid="B3">Carlsen and Croat in press</xref>) strongly suggest that it is more closely related to other northern Central American species (Clade 16) than to the clade of  <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species with palmately divided leaves (Clade 3) (<xref ref-type="fig" rid="F3">Fig. 3</xref>). The strongly supported Clade 16, although quite variable in terms of leaf morphology, presents very uniform reproductive features, including only species that possess bright orange berries with a mealy mesocarp, characteristics also found in <italic><tp:taxon-name>Anthurium pedatoradiatum</tp:taxon-name></italic>. <xref ref-type="bibr" rid="B8">Madison (1978)</xref> previously separated <italic><tp:taxon-name>Anthurium pedatoradiatum</tp:taxon-name></italic> from the rest of palmately divided <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species, and grouped it along with the other Mexican species with palmatifid leaves, <italic><tp:taxon-name>Anthurium podophyllum</tp:taxon-name></italic>, in his Group 4. The latter species have not been sampled for the current molecular phylogeny of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B1">Carlsen 2011</xref>, <xref ref-type="bibr" rid="B3">Carlsen and Croat in press</xref>). However, geographical affinities and similarities in fruit characteristics with other species of Clade 16 (<xref ref-type="fig" rid="F3">Fig. 3</xref>) have made us consider that <italic><tp:taxon-name>Anthurium podophyllum</tp:taxon-name></italic> is also a member of this clade, and as such, it should be excluded from section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> as delimited here.</p>
+            <p>There are only four currently recognized species names included in the original description of Schott’s grex <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B9">Schott 1860</xref>), all of which match well the protologue of the section. However, according to molecular studies (<xref ref-type="bibr" rid="B1">Carlsen 2011</xref>, <xref ref-type="bibr" rid="B3">Carlsen and Croat in press</xref>) (<xref ref-type="fig" rid="F3">Fig. 3</xref>), <italic><tp:taxon-name>Anthurium pedatum</tp:taxon-name></italic>, <italic><tp:taxon-name>Anthurium pedatoradiatum</tp:taxon-name></italic>, and very likely <italic><tp:taxon-name>Anthurium podophyllum</tp:taxon-name></italic>, do not belong to the same clade and are not closely related to other palmately divided <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species. Therefore, these three species are also excluded from section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> according to the circumscription presented here. Thus, of the initial group, only <italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic> remains. This climbing plant with elongated internodes and palmatifid leaves (<xref ref-type="fig" rid="F2">Fig. 2C</xref>), restricted to the Lesser Antilles, is therefore here selected as the lectotype species for section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic>. Two other <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> species with palmatifid leaves (<italic><tp:taxon-name>Anthurium expansum</tp:taxon-name></italic> and <italic><tp:taxon-name>Anthurium longissimum</tp:taxon-name></italic>) (<xref ref-type="fig" rid="F1">Fig. 1B</xref>) also belong to this section under its traditional circumscription (<xref ref-type="table" rid="T1">Table 1</xref>). <italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic> was not sampled in the current molecular phylogeny of the genus (<xref ref-type="bibr" rid="B1">Carlsen 2011</xref>, <xref ref-type="bibr" rid="B3">Carlsen and Croat in press</xref>) (<xref ref-type="fig" rid="F3">Fig. 3</xref>), but the closely related <italic><tp:taxon-name>Anthurium longissimum</tp:taxon-name></italic>, with which it shares climbing habit, palmatifid leaf morphology, peduncle shorter than the petiole, green spathe, grayish purple spadix and reddish-purple berries, was used as a representative of this group of palmatifid species.</p>
+            <p>The molecular phylogeny of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B1">Carlsen 2011</xref>, <xref ref-type="bibr" rid="B3">Carlsen and Croat in press</xref>) clearly shows that most of the palmately divided species sampled in the study (except for <italic><tp:taxon-name>Anthurium pedatum</tp:taxon-name></italic> and <italic><tp:taxon-name>Anthurium pedatoradiatum</tp:taxon-name></italic>), belong in a single clade, Clade 3 (<xref ref-type="fig" rid="F3">Fig. 3</xref>). These species were previously included in either section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> (e.g. <italic><tp:taxon-name>Anthurium longissimum</tp:taxon-name></italic>, a representative of the group with palmatifid leaves) or section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> by <xref ref-type="bibr" rid="B4">Croat and Sheffer (1983)</xref>. The findings of molecular analyses indicate that the group of species with palmatifid leaf morphology (i.e. <italic><tp:taxon-name>Anthurium longissimum</tp:taxon-name></italic>, <italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic> and <italic><tp:taxon-name>Anthurium expansum</tp:taxon-name></italic>) (<xref ref-type="fig" rid="F1">Figs 1B</xref>, <xref ref-type="fig" rid="F2">2C</xref>), all sharing similar vegetative and reproductive characters, is not distinct from other species with palmately divided leaves. Thus, these two sections are here combined, and the morphological limits of this emended, more inclusive, group are redefined.</p>
+            <p>In terms of nomenclatural choice, since both names, <!--PageBreak--><italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> and <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic>, were published, albeit without a formal rank (i.e. as grex names), at the same time in <xref ref-type="bibr" rid="B9">Schott’s (1860)</xref> revision of the genus <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic>, and were later simultaneously formalized as sections by <xref ref-type="bibr" rid="B5">Engler (1879)</xref>, none of them has priority over the other. Therefore, in this study, section <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic>, the smaller (probably containing only three currently accepted species names) and geographically more isolated group (mainly occurring in the Lesser Antilles and Cordillera de la Costa in Venezuela) has been placed into synonymy with the larger (probably including a total of 21 species, some undescribed) and more widespread group, section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic>.</p>
+            <p><italic><tp:taxon-name>Anthurium kunthii</tp:taxon-name></italic> (<xref ref-type="fig" rid="F2">Fig. 2A</xref>) is here chosen as the lectotype for this emended section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> for several reasons. <italic><tp:taxon-name>Anthurium kunthii</tp:taxon-name></italic> was among the original species included in <xref ref-type="bibr" rid="B9">Schott’s (1860)</xref> first delimitation of the group and represents very well the morphological characters described in the protologue. Also, this species was sampled in the current molecular phylogeny of the genus (<xref ref-type="bibr" rid="B1">Carlsen 2011</xref>, <xref ref-type="bibr" rid="B3">Carlsen and Croat in press</xref>) (<xref ref-type="fig" rid="F3">Fig. 3</xref>), and it clearly belongs to the group of species with palmately divided leaves in Clade 3. Additionally, <italic><tp:taxon-name>Anthurium kunthii</tp:taxon-name></italic> is among the oldest species described within the group (in 1845) (<xref ref-type="table" rid="T1">Table 1</xref>), but unlike <italic><tp:taxon-name>Anthurium digitatum</tp:taxon-name></italic> (the oldest described species, from 1829), its taxonomic status as a species has not been previously questioned.</p>
+            <p>The following section provides an updated description of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> (Schott) Engler, emend. Croat &amp; Carlsen, and lists all currently recognized species now comprising this group and their known geographic distribution.</p>
+        </sec>
+        <sec sec-type="Taxonomic treatment">
+            <title>Taxonomic treatment</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Anthurium</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="section">Dactylophyllium</tp:taxon-name-part>
+                    </tp:taxon-name>
+                    <tp:taxon-authority>(Schott) Engler, emend. Croat &amp; Carlsen, Prodr. Syst. Aroid. 542. 1860. Lectotype (designated here):
+                        Anthurium kunthii Poepp., Nov. Gen. Sp. Pl. 3: 84–85. 1845.
+                    </tp:taxon-authority>
+                    <xref ref-type="fig" rid="F1">Figures 1</xref>
+                    <xref ref-type="fig" rid="F2">, 2</xref>
+                    <tp:nomenclature-citation-list>
+                        <tp:nomenclature-citation><tp:taxon-name>Anthurium</tp:taxon-name><comment> grex <italic><tp:taxon-name>Schizoplacium</tp:taxon-name></italic> Schott, Prodr. Syst. Aroid. 538. 1860. Lectotype (designated here): <italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic> (L.) Schott, Wiener Z. Kunst 1829(3): 828. 1829. </comment></tp:nomenclature-citation>
+                    </tp:nomenclature-citation-list>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Remarks">
+                    <title>Remarks.</title>
+                    <p>Mostly appressed-climbing or scandent plants with internodes usually longer than broad, or terrestrial short stemmed plants; roots moderately sparse at each node on climbing plants, sometimes moderately dense on terrestrial species with short internodes; cataphylls usually persisting as fibers, sometimes deciduous, rarely persisting intact, the cataphyll fibers typically pale, sometimes dark reddish brown; petioles typically subterete, usually at least weakly sulcate adaxially, typically drying greenish to gray-green, sometimes dark brown; blades palmately divided and deeply lobed with 5–7 lobes united at the base (i.e. palmatifid leaves) (<xref ref-type="fig" rid="F1">Figs 1B</xref>, <xref ref-type="fig" rid="F2">2C</xref>) (<!--PageBreak--><italic><tp:taxon-name>Anthurium expansum</tp:taxon-name></italic>, <italic><tp:taxon-name>Anthurium longissimum</tp:taxon-name></italic>, and <italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic>) or palmatisect with segments (leaflets) divided completely to base and free (<xref ref-type="fig" rid="F2">Fig. 2A–B</xref>), sometimes 3-sect (<xref ref-type="fig" rid="F1">Fig. 1C</xref>) (<italic><tp:taxon-name>Anthurium arisaemoides</tp:taxon-name></italic> Madison, <italic><tp:taxon-name>Anthurium thrinax</tp:taxon-name></italic> Madison, <italic><tp:taxon-name>Anthurium triphyllum</tp:taxon-name></italic>, and <italic><tp:taxon-name>Anthurium trisectum</tp:taxon-name></italic> Sodiro), more commonly 5–11-sect (<xref ref-type="fig" rid="F1">Fig. 1A, D</xref>) (<italic><tp:taxon-name>Anthurium brevipedunculatum</tp:taxon-name></italic> Madison, <italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic>, <italic><tp:taxon-name>Anthurium croatii</tp:taxon-name></italic> Madison, <italic><tp:taxon-name>Anthurium eminens</tp:taxon-name></italic>, <italic><tp:taxon-name>Anthurium kunthii</tp:taxon-name></italic>, <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic>, <italic><tp:taxon-name>Anthurium polyschistum</tp:taxon-name></italic> R.E. Schultes &amp; Idrobo, and <italic><tp:taxon-name>Anthurium sinuatum</tp:taxon-name></italic>), the petiolules of each segment short or long (<xref ref-type="fig" rid="F2">Fig. 2A–B</xref>), the segments usually entire, sometimes sinuate (<italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic>, <italic><tp:taxon-name>Anthurium sinuatum</tp:taxon-name></italic>) or weakly to strongly pinnately lobed (<italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic>); the medial segment or lobe largest; side segments or lobes diminishing in size; juvenile blades simple; leaf surface usually smooth, glabrous, generally drying greenish, sometimes yellow-brown or dark brown; midrib typically raised on both surfaces; primary lateral veins typically conspicuous, usually well spaced, weakly raised or sunken above, usually narrowly rounded and prominently raised below; tertiary veins typically visible, sometimes moderately well-raised beneath. INFLORESCENCE short- (<italic><tp:taxon-name>Anthurium brevipedunculatum</tp:taxon-name></italic>, <italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic>) or more commonly long-pedunculate; spathe typically green, spreading, sometimes ovate and erect (<italic><tp:taxon-name>Anthurium brevipedunculatum</tp:taxon-name></italic>), usually persistent; spadix green to purplish violet, usually long-tapered, sometimes short-tapered. FRUITS purple, violet-purple or reddish-purple berries.</p>
+                    <p>Species of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> included in section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic>, under this revised delimitation, are mainly distributed in the Amazon lowlands, with a few widespread species ranging into Central America (<italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic>, <italic><tp:taxon-name>Anthurium kunthii</tp:taxon-name></italic>, and <italic><tp:taxon-name>Anthurium trisectum</tp:taxon-name></italic>), and into the Atlantic coast of South America to Brazil (<italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic>). Three taxa have disjunct distributions in the coastal mountain ranges of the Cordillera Central of Venezuela (<italic><tp:taxon-name>Anthurium digitatum</tp:taxon-name></italic> and <italic><tp:taxon-name>Anthurium longissimum</tp:taxon-name></italic>) and the Lesser Antilles (<italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic>).</p>
+                    <p>Presently, 24 accepted taxa (20 species and 4 varieties or subspecies) occur in section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> as emended here. These taxa and their geographic distribution are as follow:</p>
+                    <p><italic><tp:taxon-name>Anthurium arisaemoides</tp:taxon-name></italic> Madison (Ecuador, Peru)</p>
+                    <p><italic><tp:taxon-name>Anthurium brevipedunculatum</tp:taxon-name></italic> Madison (Bolivia, Brazil, Colombia, Ecuador, Peru)</p>
+                    <p><italic><tp:taxon-name>Anthurium buchtienii</tp:taxon-name></italic> K.Krause (Bolivia)</p>
+                    <p><italic><tp:taxon-name>Anthurium clavigerum</tp:taxon-name></italic> Poepp. (widespread, Nicaragua to Venezuela and Peru)</p>
+                    <p><italic><tp:taxon-name>Anthurium croatii</tp:taxon-name></italic> Madison (Bolivia, Brazil, Colombia, Ecuador, Peru)</p>
+                    <p><italic><tp:taxon-name>Anthurium digitatum</tp:taxon-name></italic> (Jacq.) Schott (Venezuela)</p>
+                    <p><italic><tp:taxon-name>Anthurium eminens</tp:taxon-name></italic> Schott var. <italic>eminens</italic> (Bolivia, Brazil, Colombia, Ecuador, French Guiana)</p>
+                    <p><italic><tp:taxon-name>Anthurium eminens</tp:taxon-name></italic> Schott var. <italic>longispadix</italic> Croat &amp; M.Mora (Colombia)</p>
+                    <p><italic><tp:taxon-name>Anthurium expansum</tp:taxon-name></italic> Gleason (French Guiana, Guyana, Suriname, Venezuela)</p>
+                    <p><italic><tp:taxon-name>Anthurium kunthii</tp:taxon-name></italic> var. <italic>cylindricum</italic> Croat (Bolivia)</p>
+                    <p><italic><tp:taxon-name>Anthurium kunthii</tp:taxon-name></italic> Poepp. var. <italic>kunthii</italic> (Costa Rica to Peru and Bolivia) (<xref ref-type="fig" rid="F2">Fig. 2A</xref>)</p>
+                    <p><italic><tp:taxon-name>Anthurium longissimum</tp:taxon-name></italic> Pittier ssp. <italic>longissimum</italic> (Venezuela) (<xref ref-type="fig" rid="F1">Fig. 1B</xref>)</p>
+                    <p><italic><tp:taxon-name>Anthurium longissimum</tp:taxon-name></italic> Pittier ssp. <italic>nirguense</italic> Bunting (Venezuela)</p>
+                    <p><italic><tp:taxon-name>Anthurium moonenii</tp:taxon-name></italic> Croat &amp; E.G.Gonçalves (French Guiana)</p>
+                    <p><italic><tp:taxon-name>Anthurium palmatum</tp:taxon-name></italic> (L.) Schott (Lesser Antilles) (<xref ref-type="fig" rid="F2">Fig. 2C</xref>)</p>
+                    <p><italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> (Aubl.) G. Don var. <italic>bombacifolium</italic> (Schott) Madison (Belize, Costa Rica, Guatemala)</p>
+                    <p><italic><tp:taxon-name>Anthurium pentaphyllum</tp:taxon-name></italic> (Aubl.) G.Don var. <italic>pentaphyllum</italic> (widespread Costa Rica to the Guianas, Brazil and Peru) (<xref ref-type="fig" rid="F1">Figs 1A</xref>, <xref ref-type="fig" rid="F2">2B</xref>)</p>
+                    <!--PageBreak-->
+                    <p><italic><tp:taxon-name>Anthurium polydactylum</tp:taxon-name></italic> Madison (Bolivia, Peru) (<xref ref-type="fig" rid="F1">Fig. 1D</xref>)</p>
+                    <p><italic><tp:taxon-name>Anthurium polyschistum</tp:taxon-name></italic> R.E. Schultes &amp; Idrobo (Brazil, Colombia, Ecuador, Peru)</p>
+                    <p><italic><tp:taxon-name>Anthurium sinuatum</tp:taxon-name></italic> Benth ex Schott (Brazil, French Guiana, Suriname, Venezuela)</p>
+                    <p><italic><tp:taxon-name>Anthurium thrinax</tp:taxon-name></italic> Madison (French Guiana, Guyana)</p>
+                    <p><italic><tp:taxon-name>Anthurium triphyllum</tp:taxon-name></italic> (Willd. ex Schult.) Brongn. ex Schott (Bolivia, Ecuador, Peru)</p>
+                    <p><italic><tp:taxon-name>Anthurium trisectum</tp:taxon-name></italic> Sodiro (Costa Rica to Ecuador) (<xref ref-type="fig" rid="F1">Fig. 1C</xref>)</p>
+                    <p><italic><tp:taxon-name>Anthurium zuloagae</tp:taxon-name></italic> Croat (Colombia)</p>
+                    <p>There are also at least four more currently undescribed species in the section, and at least two more varieties that need formal recognition. A complete taxonomic revision, including identification keys, species synonymy, descriptions and illustrative photographs, of all the species of <italic><tp:taxon-name>Anthurium</tp:taxon-name></italic> with palmately divided leaves comprising the newly amended section <italic><tp:taxon-name>Dactylophyllium</tp:taxon-name></italic> is indeed needed, but beyond the scope of this article.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>This study was based, in part, on the results of the PhD dissertation of the second author, and thus MMC would like to thank Peter Stevens (Advisor), Elizabeth Kellogg, Mick Richardson and Simon Mayo for helpful discussions. This study was supported by a National Science Foundation Doctoral Dissertation Improvement Grant (DEB0709851), and graduate research grants from the Botanical Society of America, the American Society of Plant Taxonomists, the Garden Club of America, the Desmond Lee Fund at the University of Missouri–St. Louis, and the Royal Botanical Gardens in Kew, England with a Kew Latin American Research Fellowship. MMC is also thankful to the W. R. Harris World Ecology Center at the University of Missouri–St. Louis through its Christensen Fellowship, and the Missouri Botanical Garden for financial support during her doctoral studies. We would also like to thank two anonymous reviewers for their valuable suggestions to improve the original manuscript.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Carlsen</surname> <given-names>MM</given-names></name></person-group> (<year>2011</year>) <source>Understanding the origin and rapid diversification of the genus <italic>Anthurium</italic> Schott (Araceae), integrating molecular phylogenetics, morphology and fossils. PhD thesis, University of Missouri–St. Louis, USA. <ext-link ext-link-type="uri" xlink:href="https://apps.umsl.edu/webapps/weboffice/ETD/query.cfm?id=r6587" xlink:type="simple">https://apps.umsl.edu/webapps/weboffice/ETD/query.cfm?id=r6587</ext-link></source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Carlsen</surname> <given-names>MM</given-names></name><name name-style="western"><surname>Croat</surname> <given-names>TB</given-names></name></person-group> (<year>2007</year>) <article-title>Taxonomic revision of <italic>Anthurium</italic> section <italic>Semaeophyllium</italic> Schott (Araceae).</article-title> <source>Harvard Papers in Botany</source> <volume>12</volume> (<issue>1</issue>): <fpage>173</fpage>-<lpage>234</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3100/1043-4534(2007)12[173:TROASS]2.0.CO;2" xlink:type="simple">10.3100/1043-4534(2007)12[173:TROASS]2.0.CO;2</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Carlsen</surname> <given-names>MM</given-names></name><name name-style="western"><surname>Croat</surname> <given-names>TB</given-names></name></person-group> (<year>in press</year>) <source>A molecular phylogeny of the species-rich Neotropical genus <italic>Anthurium</italic> (Araceae) based on combined chloroplast and nuclear DNA. Systematic Botany.</source></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Croat</surname> <given-names>TB</given-names></name><name name-style="western"><surname>Sheffer</surname> <given-names>RS</given-names></name></person-group> (<year>1983</year>) <source>The sectional groupings of <italic>Anthurium</italic> (Araceae). Aroideana 6(3): 85–123.</source></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engler</surname> <given-names>A</given-names></name></person-group> (<year>1879</year>) <article-title>Araceae.</article-title> In: <person-group><name name-style="western"><surname>De Candolle</surname> <given-names>A</given-names></name><name name-style="western"><surname>De Candolle</surname> <given-names>C</given-names></name></person-group> (<role>Eds</role>). <issue-title>Monographiae Phanerogamarum Prodomi vol.</issue-title> <source>II. C. Wolf &amp; Fils, Munich</source>: <fpage>1</fpage>-<lpage>681</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Engler</surname> <given-names>A</given-names></name></person-group> (<year>1905</year>) <article-title>Araceae-Pothoideae.</article-title> In: <person-group><name name-style="western"><surname>Engler</surname> <given-names>A</given-names></name></person-group> (<role>Ed</role>). <issue-title>Das Pflanzenreich IV 23B (Heft 21).</issue-title> <source>W. Engelmann, Leipzig and Berlin</source>: <fpage>1</fpage>-<lpage>330</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Govaerts</surname> <given-names>R</given-names></name><name name-style="western"><surname>Bogner</surname> <given-names>J</given-names></name><name name-style="western"><surname>Boos</surname> <given-names>J</given-names></name><name name-style="western"><surname>Boyce</surname> <given-names>PC</given-names></name><name name-style="western"><surname>Cosgriff</surname> <given-names>B</given-names></name><name name-style="western"><surname>Croat</surname> <given-names>TB</given-names></name><name name-style="western"><surname>Gonçalves</surname> <given-names>E</given-names></name><name name-style="western"><surname>Grayum</surname> <given-names>MH</given-names></name><name name-style="western"><surname>Hay</surname> <given-names>A</given-names></name><name name-style="western"><surname>Hetterscheid</surname> <given-names>WLA</given-names></name><name name-style="western"><surname>Ittenbach</surname> <given-names>S</given-names></name><name name-style="western"><surname>Landolt</surname> <given-names>E</given-names></name><name name-style="western"><surname>Mayo</surname> <given-names>SJ</given-names></name><name name-style="western"><surname>Murata</surname> <given-names>J</given-names></name><name name-style="western"><surname>Nguyen</surname> <given-names>VD</given-names></name><name name-style="western"><surname>Sakuragui</surname> <given-names>CM</given-names></name><name name-style="western"><surname>Singh</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Thompson</surname> <given-names>S</given-names></name><name name-style="western"><surname>Zhu</surname> <given-names>G</given-names></name></person-group> (<year>2012</year>) <source>World Checklist of Araceae. <ext-link ext-link-type="uri" xlink:href="http://www.kew.org/wcsp/" xlink:type="simple">http://www.kew.org/wcsp/</ext-link> [accessed 24.06.2012]</source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Madison</surname> <given-names>MT</given-names></name></person-group> (<year>1978</year>) <source>The species of the <italic>Anthurium</italic> with palmately divided leaves. Selbyana 2: 239–282.</source></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schott</surname> <given-names>HW</given-names></name></person-group> (<year>1860</year>) <source>Prodromus Systematis Aroidearum. Typis Congregationis Mechitharisticae, Vienna, 1–602.</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>
